@@ -35,11 +35,12 @@ author:
   reddit: Jamie-Davis
   email: jamiehdavis96@gmail.com
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
 theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
+repository:
 paginate: 10
 paginate_path: /path:num/
