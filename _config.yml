@@ -1,8 +1,10 @@
 #title: JD's BlogSite
 email: jamiehdavis96@gmail.com
 description: Technology based blog on my personal opinion on topics and projects, Jamie Davis tech blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "JD BlogSite" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: ""
+#baseurl: "/BlogSite" # the subpath of your site, e.g. /blog
+#url: "https://jamiedavis2016.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  JamieDavis2016
 
 defaults:
@@ -35,12 +37,16 @@ author:
   reddit: Jamie-Davis
   email: jamiehdavis96@gmail.com
 markdown: kramdown
-theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+#theme: minimal-mistakes-jekyll
 
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-remote-theme
+remote_theme: "mmistakes/minimal-mistakes"
 repository:
 paginate: 10
 paginate_path: /path:num/
