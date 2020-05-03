@@ -13,6 +13,8 @@ source "https://rubygems.org"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minimal-mistakes-jekyll"
 
+gem "jekyll-include-cache"
+
 gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
