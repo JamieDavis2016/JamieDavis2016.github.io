@@ -1,53 +1,92 @@
-#title: JD's BlogSite
-email: jamiehdavis96@gmail.com
-description: Technology based blog on my personal opinion on topics and projects, Jamie Davis tech blog
-baseurl: ""
-url: ""
-#baseurl: "/BlogSite" # the subpath of your site, e.g. /blog
-#url: "https://jamiedavis2016.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  JamieDavis2016
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-defaults:
-- scope:
-    path: ''
-    type: posts
-    sidebar: "main "
-  values:
-    layout: single
-    author_profile: true
-    read_time: true
-    comments: true
-    share: true
-    related: true
-    sidebar: "main"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: home
-    author_profile: true
-    sidebar: "main"
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: ItsBeenJamiedBlog
+email: jamiehdavis96@gmail.com
+description: A blog about software development, learning and living!
+  # Write an awesome description for your new site here. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "blog.itsbeenjamied.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jamieharrydavis
+github_username:  jamiedavis2016
+locale: "en-GB"
+name: "Jamie Davis"
+breadcrumbs: true
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+search: true
+
+#header
+logo: "/assets/images/volleyball-logo.jpg"
+masthead_title: "My Custom "
+
+words_per_minute         : 200
+read_time: true
 
 author:
-  name: "Jamie Davis"
-  avatar: "/assets/images/capture.png"
-  bio: "I am a software developer with a passion for technology"
-  location: "London, United Kingdom"
-  github: JamieDavis2016
-  reddit: Jamie-Davis
-  email: jamiehdavis96@gmail.com
-markdown: kramdown
-#theme: mmistakes/minimal-mistakes@4.19.2
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/" url: "https://github.com/jamiedavis2016"
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
+
+defaults:
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 
 plugins:
-  - jekyll-include-cache
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
-  - jekyll-remote-theme
-remote_theme: mmistakes/minimal-mistakes@4.19.2
-repository:
-paginate: 10
-paginate_path: /path:num/
+  - jekyll-include-cache
