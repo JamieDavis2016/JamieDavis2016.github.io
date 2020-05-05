@@ -13,19 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ItsBeenJamiedBlog
+title: ItsBeenJamied
 email: jamiehdavis96@gmail.com
 description: A blog about software development, learning and living!
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for
   # Google search results) and in your feed.xml site description.
-#baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://itsbeenjamied.co.uk/Jamie" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: jamieharrydavis
 github_username:  jamiedavis2016
 locale: "en-GB"
 name: "Jamie Davis"
-breadcrumbs: true
 
 # Build settings
 markdown: kramdown
@@ -33,61 +31,66 @@ theme: minimal-mistakes-jekyll
 search: true
 
 #header
-logo: "assets/images/volleyball-logo.jpg"
-masthead_title: "My Custom "
+logo: "assets/images/smallcat.jpg"
+masthead_title: "Jamie Davis"
 
 words_per_minute         : 200
 read_time: true
 
 author:
-  name             : "Your Name"
-  avatar           : "assets/images/volleyball-logo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Jamie Davis"
+  avatar           : "assets/images/jamie.jpg"
+  bio              : "I am a graduate from Greenwich University, I enjoy software development, volleyball, league of legends"
+  location         : "UK, London, Kent"
+
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jamiehdavis96@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://ItsBeenJamied.co.uk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://twitter.com/JamieHarryDavis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/JamieDavis2016"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/" url: "https://github.com/jamiedavis2016"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
 
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+# sidebar:
+#   - title: "Title"
+#     image: http://placehold.it/350x250
+#     image_alt: "image"
+#     text: "Some text here."
+#   - title: "Another Title"
+#     text: "More text here."
 
-root: ../
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "itsbeenjamied"
 
-defaults:
-    scope:
-      #path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
+url: https://itsbeenjamied.co.uk
+baseurl: /Jamie
 
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+  
+defaults:
+    - scope:
+        path: ""
+        type: posts
+      values:
+        layout: single
+        author_profile: true
+        read_time: true
+        comments: true
+        share: true
