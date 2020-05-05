@@ -1,25 +1,32 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
-date:   2020-05-03 13:44:23 +0100
-categories: jekyll update
+title:  "Creating a Raspberry Pi Webserver headless"
+date:   2020-05-05 13:44:23 +0100
+categories: Raspberry Pi
 ---
 
-Creating a Raspberry Pi Webserver
-Time to do: 30 minutes
+![Raspberry Pi Splash](../assets/raspberrypi/images/raspberry%20pi%20splash.jpg)
 
-Requirements:
-A raspberry Pi (preferably V3 B+), if not V2 with a Network Adapter
+# Creating a Raspberry Pi Webserver
+<sub>Time to do: 30 minutes</sub>
+
+
+
+Requirements: <br />
+A raspberry Pi (preferably V3 B+), if not V2 with a Network Adapter <br />
 sd card reader:
-https://www.amazon.co.uk/gp/product/B001JPPQS6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+[Sd card reader](https://www.amazon.co.uk/gp/product/B001JPPQS6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+<br />
 Raspberry Pi: 
-https://www.amazon.co.uk/Raspberry-Pi-3-Model-B/dp/B07BDR5PDW/ref=sr_1_3?dchild=1&keywords=raspberry+pi+3&qid=1588410760&s=computers&sr=1-3
+[Raspberry Pi Model B+](https://www.amazon.co.uk/Raspberry-Pi-3-Model-B/dp/B07BDR5PDW/ref=sr_1_3?dchild=1&keywords=raspberry+pi+3&qid=1588410760&s=computers&sr=1-3)
+<br />
 A micro usb cable:
-https://www.amazon.co.uk/AmazonBasics-Male-Micro-Cable-Black/dp/B0719H12WD/ref=sr_1_1_sspa?crid=1S0O4UP1UH3VO&dchild=1&keywords=micro+usb+cable&qid=1588410802&s=computers&sprefix=micro+usb+%2Ccomputers%2C173&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDVDVFVFRZUks5MzcmZW5jcnlwdGVkSWQ9QTAxODg4MDMzN1cwSjk4VTFUUTRRJmVuY3J5cHRlZEFkSWQ9QTAyODQ0NjkxV1pMVldXQThSOVM3JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+[Micro usb cable](https://www.amazon.co.uk/AmazonBasics-Male-Micro-Cable-Black/dp/B0719H12WD/ref=sr_1_1_sspa?crid=1S0O4UP1UH3VO&dchild=1&keywords=micro+usb+cable&qid=1588410802&s=computers&sprefix=micro+usb+%2Ccomputers%2C173&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDVDVFVFRZUks5MzcmZW5jcnlwdGVkSWQ9QTAxODg4MDMzN1cwSjk4VTFUUTRRJmVuY3J5cHRlZEFkSWQ9QTAyODQ0NjkxV1pMVldXQThSOVM3JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+<br />
 And optionally a HDMI cable:
-https://www.amazon.co.uk/Lead-Snowkids-Compatible-Support-Ethernet-Function-Grey-HDMI-cable/dp/B07GYS426K/ref=sr_1_1_sspa?crid=2PQBC94O6JNW8&dchild=1&keywords=hdmi+cable&qid=1588410819&s=computers&sprefix=hdmi%2Ccomputers%2C164&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTVpCS1FBUjVLSDFLJmVuY3J5cHRlZElkPUEwOTQ1ODU1T1NQTTg0TTNUTjVEJmVuY3J5cHRlZEFkSWQ9QTA5ODEyOTUxMk1XRkpWSENHTzhLJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+[HDMI Cable](https://www.amazon.co.uk/Lead-Snowkids-Compatible-Support-Ethernet-Function-Grey-HDMI-cable/dp/B07GYS426K/ref=sr_1_1_sspa?crid=2PQBC94O6JNW8&dchild=1&keywords=hdmi+cable&qid=1588410819&s=computers&sprefix=hdmi%2Ccomputers%2C164&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTVpCS1FBUjVLSDFLJmVuY3J5cHRlZElkPUEwOTQ1ODU1T1NQTTg0TTNUTjVEJmVuY3J5cHRlZEFkSWQ9QTA5ODEyOTUxMk1XRkpWSENHTzhLJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
-Raspberry Pi 3 B+ vs Raspberry Pi 3 B v1.2
+## Raspberry Pi 3 B+ vs Raspberry Pi 3 B v1.2
 WIFI adapter
 Model b:
 https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
