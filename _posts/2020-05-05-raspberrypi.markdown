@@ -2,17 +2,12 @@
 layout: single
 title:  "Creating a Raspberry Pi Webserver headless"
 date:   2020-05-05 13:44:23 +0100
-categories: Raspberry Pi
+categories: RaspberryPi
+header:
+     overlay_image: /assets/images/raspberrypisplash.jpg
+     caption: "Time to do: 30minutes"
 ---
-
-![Raspberry Pi Splash](../assets/raspberrypi/images/raspberry%20pi%20splash.jpg)
-
-# Creating a Raspberry Pi Webserver
-<sub>Time to do: 30 minutes</sub>
-
-
-
-Requirements: <br />
+Requirements / Items needed: <br />
 A raspberry Pi (preferably V3 B+), if not V2 with a Network Adapter <br />
 sd card reader:
 [Sd card reader](https://www.amazon.co.uk/gp/product/B001JPPQS6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
@@ -26,22 +21,11 @@ A micro usb cable:
 And optionally a HDMI cable:
 [HDMI Cable](https://www.amazon.co.uk/Lead-Snowkids-Compatible-Support-Ethernet-Function-Grey-HDMI-cable/dp/B07GYS426K/ref=sr_1_1_sspa?crid=2PQBC94O6JNW8&dchild=1&keywords=hdmi+cable&qid=1588410819&s=computers&sprefix=hdmi%2Ccomputers%2C164&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTVpCS1FBUjVLSDFLJmVuY3J5cHRlZElkPUEwOTQ1ODU1T1NQTTg0TTNUTjVEJmVuY3J5cHRlZEFkSWQ9QTA5ODEyOTUxMk1XRkpWSENHTzhLJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
-## Raspberry Pi 3 B+ vs Raspberry Pi 3 B v1.2
-WIFI adapter
-Model b:
-https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
-https://raspberrypi.stackexchange.com/questions/43306/does-pi3-wi-fi-support-5-ghz-and-does-it-need-an-extra-antenna
-Model b+:
-https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/
+Software Needed if you don't have it:
+<br />
+[Etcher.io](https://www.balena.io/etcher/)
 
-https://raspberrypi.stackexchange.com/questions/43306/does-pi3-wi-fi-support-5-ghz-and-does-it-need-an-extra-antenna
-
-Software:
-Etcher.io
-https://www.balena.io/etcher/
-
-Putty:
-https://www.putty.org/
+[Putty](https://www.putty.org/)
 
 Raspbian
 Download raspbian buster lite
@@ -97,5 +81,15 @@ In my case I put the wrong ISO code in (UK), when it should of been (GB).
 
 
 Creating a Raspberry Pi Ci/CD light switch
+
+## Raspberry Pi 3 B+ vs Raspberry Pi 3 B v1.2
+WIFI adapter
+Model b:
+https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
+https://raspberrypi.stackexchange.com/questions/43306/does-pi3-wi-fi-support-5-ghz-and-does-it-need-an-extra-antenna
+Model b+:
+https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/
+
+https://raspberrypi.stackexchange.com/questions/43306/does-pi3-wi-fi-support-5-ghz-and-does-it-need-an-extra-antenna
 
 <section id="disqus_thread"></section>
