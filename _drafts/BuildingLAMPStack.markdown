@@ -42,6 +42,15 @@ Go to where you created the PHP file and see if it loads!
 
 That should be PHP setup!
 
+To test your php is working you can write this
+![Php Info](/assets/BuildLAMPStack/phpinfo.PNG)
+
+and then when you go to view it on your raspberry Pi web server you should have information appearing like so:
+
+![Php Info](/assets/BuildLAMPStack/phpinfoindex.PNG)
+
+This means you've setup PHP correctly!
+
 Now to setup MySQL (Last part of the LANP stack!)
 
 <code>sudo apt-get install mariadb-server-10.0</code>
@@ -64,5 +73,10 @@ Then you should be in your MariaDB client, to check a database exists run <code>
 
 <code>ctrl + c</code> to break out of mariaDB client and back into your terminal
 
+# Adding to the LAMP Stack (making websites, what we're here for!)
+
+(explain how they can with filezilla and use that as a way to transfer files across).
+
 And you should now have your LMNP stack working, here's a short breakdown of what you can do with it! Enjoy!
+
 <section id="disqus_thread"></section>
