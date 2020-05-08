@@ -77,9 +77,6 @@ troubleshooting: Connect your rpi to a monitor with HDMI
 Run "sudo raspi-config", see if there is a network interface
 In my case I put the wrong ISO code in (UK), when it should of been (GB).
 
-
-
-
 Creating a Raspberry Pi Ci/CD light switch
 
 ## Raspberry Pi 3 B+ vs Raspberry Pi 3 B v1.2

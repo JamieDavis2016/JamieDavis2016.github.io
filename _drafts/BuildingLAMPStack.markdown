@@ -79,5 +79,4 @@ Then you should be in your MariaDB client, to check a database exists run <code>
 
 And you should now have your LMNP stack working, here's a short breakdown of what you can do with it! Enjoy!
 
-
 <section id="disqus_thread"></section>
