@@ -41,6 +41,7 @@ Should see "welcome to express!"
 
 # Now lets get the node app running with nginx so you can see it on your machine! 
 
+For some reason my builds aren't being pushed to travis?
 
 
 https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server
