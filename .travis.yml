@@ -2,6 +2,9 @@ language: ruby
 rvm:
   - 2.6.3
 
+  # install: gem install jekyll html-proofer jekyll-sitemap
+  # before_install: gem install bundler
+  
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
@@ -11,7 +14,7 @@ addons:
     packages:
     - libcurl4-openssl-dev
 
-sudo: false # route your build to the container-based infrastructure for a faster build
+sudo: true # route your build to the container-based infrastructure for a faster build
 
 cache: bundler # caching bundler gem packages will speed up build
 
