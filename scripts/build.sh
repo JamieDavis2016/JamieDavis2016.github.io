@@ -1,4 +1,5 @@
 #!/bin/bash
 
-jekyll build --config _config_ci.yml
+set DEV_ENV=production
+jekyll build
 htmlproofer ./_site --disable-external
