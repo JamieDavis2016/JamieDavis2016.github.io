@@ -76,8 +76,8 @@ comments:
   disqus:
     shortname: "itsbeenjamied"
 
-url: https://itsbeenjamied.co.uk
-baseurl: /Jamie
+url: https://blog.itsbeenjamied.co.uk
+# baseurl: 
 
 plugins:
   - jekyll-feed
