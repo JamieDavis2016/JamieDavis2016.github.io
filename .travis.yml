@@ -2,7 +2,10 @@ language: ruby
 rvm:
   - 2.6.3
 
-install: gem install jekyll html-proofer jekyll-sitemap bundle
+install: 
+  - bundle install
+  - gem install jekyll html-proofer jekyll-sitemap bundle
+
 before_install: gem install bundler
 
 env:
