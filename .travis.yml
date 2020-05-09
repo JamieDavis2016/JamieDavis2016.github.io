@@ -4,7 +4,7 @@ rvm:
 
 install: 
   - bundle install
-  - gem install jekyll html-proofer jekyll-sitemap bundle
+  - gem install jekyll html-proofer jekyll-sitemap bundle rake
 
 before_install: gem install bundler
 
