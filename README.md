@@ -19,3 +19,5 @@ This is where I will be publishing more about build information that is happenin
 ## Extra
 
 Notes of what I plan to do for the future! :)
+
+bundle exec jekyll serve : development mode
