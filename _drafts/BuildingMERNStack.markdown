@@ -2,8 +2,7 @@ Build MERN stack and deploy it to a server (raspberry Pi)
 
 MERN stack: MongoDB, Express. js, AngularJS, and Node. js
 
-Setup MERN stack on lcoal PC - THEN PUSH TO GIT?
-
+Setup MERN stack on local PC - THEN PUSH TO GIT?
 
 Step 1: Install Node on your raspberry Pi (and on your local computer)
 

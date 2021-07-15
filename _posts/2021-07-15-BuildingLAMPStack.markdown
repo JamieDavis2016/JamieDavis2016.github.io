@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Building a LNMP (LAMP) Stack!"
-date:   2020-05-03 13:44:23 +0100
+date:   2021-07-15 13:44:23 +0100
 categories: Raspberry Pi LNMP stack
 
 ---
