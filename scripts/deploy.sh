@@ -1,14 +1,23 @@
 #!/bin/bash
+set -xe
+if [ $TRAVIS_BRANCH == 'master' ] ; then
+    # Initialize a new git repo in _site, and push it to our server.
+    ls -al ~/.ssh
+    eval "$(ssh-agent -s)"
+    ssh-add ~/.ssh/id_rsa
+    ssh-keygen -p -P "" -N "" -f ~/.ssh/id_rsa
 
-  cd _site
-  git init
+    cd ./dist
+    git init
+        
+    git remote add deploy "travis@itsbeenjamied.co.uk:/var/repo/blogsite.git"
+    git config user.name "Travis CI"
+    git config user.email "jamiehdavis96+travis@gmail.com"
+    
+    git add -v . 
+    git commit -m "Deploy V2"
+    git push deploy master --force
 
-  git config user.name "Travis CI"
-  git config user.email "jamiehdavis96@gmail.com"
-
-  git add .
-  git commit -m "Deploy"
-
-  # We redirect any output to
-  # /dev/null to hide any sensitive credential data that might otherwise be exposed.
-  git push --force --quiet "https://${git_user}:${git_password}@${git_target}" master:master > /dev/null 2>&1
+else
+    echo "Not deploying, since this branch isn't master."
+fi
