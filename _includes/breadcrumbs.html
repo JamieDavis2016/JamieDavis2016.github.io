@@ -1,0 +1,25 @@
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="{{ '/' | relative_url }}">Home</a>
+
+  {% assign segments = page.url | split:'/' %}
+  {% assign path = '' %}
+
+  {% for segment in segments %}
+    {% if segment != '' %}
+      {% assign path = path | append:'/' | append:segment %}
+      {% if forloop.last %}
+        <span> / {{ page.title }}</span>
+      {% else %}
+        <a href="{{ path | relative_url }}"> / {{ segment | replace:'-',' ' | capitalize }}</a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</nav>
+
+<style>.breadcrumbs {
+  font-size: 0.9rem;
+}
+.breadcrumbs a {
+  text-decoration: none;
+}
+</style>

@@ -33,24 +33,21 @@ plugins:
 collections:
   sessions:
     output: true
-    #permalink: /sessions/:year/:month/
-    #permalink: /_sessions/:year/:month/:path/
-    #permalink: /:collection/:path/
 defaults:
   - scope:
-      path: "_sessions/Kent womens"
+      path: "_sessions/kent-womens"
       type: sessions
     values:
       group: "Kent womens"
 
   - scope:
-      path: "_sessions/Friday social sessions"
+      path: "_sessions/friday-social-sessions"
       type: sessions
     values:
       group: "Friday social sessions"
 
   - scope:
-      path: "_sessions/U18s"
+      path: "_sessions/u18s"
       type: sessions
     values:
       group: "U18s"
