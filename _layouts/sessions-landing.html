@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{% assign sessions = site.sessions 
+  | where: "group", page.group 
+  | sort: "date" 
+  | reverse %}
+
+{% assign by_year = sessions | group_by_exp: "s", "s.date | date: '%Y'" %}
+
+{% for year in by_year %}
+  <h2>{{ year.name }}</h2>
+
+  {% assign by_month = year.items | group_by_exp: "s", "s.date | date: '%B'" %}
+
+  {% for month in by_month %}
+    <h3>{{ month.name }}</h3>
+
+    <ul>
+      {% for session in month.items %}
+        <li>
+          <a href="{{ session.url }}">{{ session.title }}</a>
+          <time>{{ session.date | date: "%d %b %Y" }}</time>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+{% endfor %}

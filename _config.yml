@@ -7,90 +7,71 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ItsBeenJamied
-email: jamiehdavis96@gmail.com
-description: A blog about software development, learning and living!
-  # Write an awesome description for your new site here. You can edit this
-  # line in _config.yml. It will appear in your document head meta (for
-  # Google search results) and in your feed.xml site description.
 
-twitter_username: jamieharrydavis
+title: Blog
+email: jamiehdavis96@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Writing about a few things
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jamiedavis2016
-locale: "en-GB"
-name: "Jamie Davis"
 
 # Build settings
-markdown: kramdown
-theme: minimal-mistakes-jekyll
-search: true
-
-#header
-logo: "assets/images/smallcat.jpg"
-masthead_title: "Jamie Davis"
-
-words_per_minute         : 200
-read_time: true
-
-author:
-  name             : "Jamie Davis"
-  avatar           : "assets/images/jamie.jpg"
-  bio              : "I am a graduate from Greenwich University, I enjoy software development, volleyball, league of legends"
-  location         : "UK, London, Kent"
-
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jamiehdavis96@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ItsBeenJamied.co.uk"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JamieHarryDavis"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/JamieDavis2016"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/" url: "https://github.com/jamiedavis2016"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-
-# sidebar:
-#   - title: "Title"
-#     image: http://placehold.it/350x250
-#     image_alt: "image"
-#     text: "Some text here."
-#   - title: "Another Title"
-#     text: "More text here."
-
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "itsbeenjamied"
-
-url: https://blog.itsbeenjamied.co.uk
-# baseurl: 
-
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
-
-  
+collections:
+  sessions:
+    output: true
+    #permalink: /sessions/:year/:month/
+    #permalink: /_sessions/:year/:month/:path/
+    #permalink: /:collection/:path/
 defaults:
-    - scope:
-        path: ""
-        type: posts
-      values:
-        layout: single
-        author_profile: true
-        read_time: true
-        comments: true
-        share: true
+  - scope:
+      path: "_sessions/Kent womens"
+      type: sessions
+    values:
+      group: "Kent womens"
+
+  - scope:
+      path: "_sessions/Friday social sessions"
+      type: sessions
+    values:
+      group: "Friday social sessions"
+
+  - scope:
+      path: "_sessions/U18s"
+      type: sessions
+    values:
+      group: "U18s"
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
