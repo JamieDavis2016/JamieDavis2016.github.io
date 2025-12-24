@@ -1,5 +1,5 @@
 ---
-title: "s"
+title: ""
 date: "2024-12-03"
 description: 
 ---
