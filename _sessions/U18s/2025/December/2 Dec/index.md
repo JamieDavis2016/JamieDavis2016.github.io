@@ -2,7 +2,6 @@
 title: "Service and service reception - trying to get 8 out of 10 of serves in"
 date: "2025-12-02"
 description: Trying to get our service and serve reception competitive
-layout: post
 ---
 
 # Pre-requisites
@@ -30,11 +29,15 @@ rotating players in when the ball drops, no jump on attack, after a pass, set an
   - Getting there and back with everyone first
  - Go again but serves have to be inside the 3m line
 
+# Main part of practice
+We did this for a bit of an extended period of time, allowing everyone to put more pressure into their service
+
 3. Servers vs Passers
  - 10 serves, servers have to count how many in, then switch (2x over)
  - 3 passers, 3 servers (on each side)  
  - 1st round looking at float service, can be deep and short
  - Can experiment with whichever serve you would like to try on the 2nd round
+
 
 (Last) Playing 6-2 rotation, 
 - 3 services before swapping rotations

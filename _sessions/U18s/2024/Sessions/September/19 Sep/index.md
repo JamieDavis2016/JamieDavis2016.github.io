@@ -2,7 +2,6 @@
 title: "Defensive Systems"
 date: "2024-09-19"
 description: Looking at our defensive systems
-layout: post
 ---
 
 Went to a Jim Stones Coaching symposium in the UK on 17 September 2024, found lots of useful information and so some changes to our warmups and things may happen going forward
