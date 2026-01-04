@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Base Positions"
 date: "2024-12-03"
 description: Base positioning on court, blocking channels
@@ -32,3 +33,4 @@ First to 25
   - 32 inside ball on outside
   - Cross, 1 blocker, "just up"
 - Channeling the block gains 2 points
+

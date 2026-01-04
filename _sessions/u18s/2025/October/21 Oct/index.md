@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Serving Endline"
 date: "2025-10-21"
 description: Serving deep float serves, also working on receive
@@ -41,5 +42,6 @@ Playing a rally out where the first attack ends the rally, if defence get a touc
 
 # Game 
 First to 25
+
 
 

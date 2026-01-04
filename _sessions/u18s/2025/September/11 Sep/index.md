@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Lots of positional play"
 date: "2025-09-11"
 description: Looking at getting familiar with running a 5:1 system
@@ -33,3 +34,4 @@ description: Looking at getting familiar with running a 5:1 system
 Extra rules; Cannot score without an attack
 Don't score out of if position
 First to 25
+

@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Movement on court"
 date: "2025-11-11"
 description: Working on how we move around the court and not being static
@@ -41,5 +42,6 @@ a 4 vs 4 game around playing tip / deep corners and seeing if we are watching an
 
 # Game 
 First to 25
+
 
 

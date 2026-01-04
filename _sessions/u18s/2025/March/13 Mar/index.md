@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Last practice before final tournament of year"
 date: "2025-03-13"
 description: This is our last practice before last tournament of the year
@@ -25,3 +26,4 @@ description: This is our last practice before last tournament of the year
 
 # Game
 First to 25 
+

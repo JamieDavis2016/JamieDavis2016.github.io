@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Defensive movement"
 date: "2025-09-30"
 description: Looking at defensive movement how we use our legs to get to the ball
@@ -42,3 +43,4 @@ description: Looking at defensive movement how we use our legs to get to the bal
 - if an attack doesn't happen, no point on sideout
 - setter to give every front row attacker a swing before back court
 First to 25
+

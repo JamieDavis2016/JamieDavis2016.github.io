@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Using defensive posture and getting low"
 date: "2025-10-09"
 description: Looking at how we get low to the ground in defence
@@ -38,5 +39,6 @@ In pairs 8 throws swap
 - at least 1 rally back seeing defence in play
 - looking at freezing to target on the pass
 First to 25
+
 
 

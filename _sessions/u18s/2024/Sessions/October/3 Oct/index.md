@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Arm control and adding topspin"
 date: "2024-10-03"
 description: How we control our swing and adding topspin to our attack

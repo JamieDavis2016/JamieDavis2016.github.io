@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Poisitions on serve receive"
 date: "2025-09-02"
 description: Looking at how positions work on court and how the rules work

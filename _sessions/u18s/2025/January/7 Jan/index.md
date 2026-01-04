@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Tempo balls"
 date: "2025-01-07"
 description: Creating a system where we understand how to run a tempo attack (starting)
@@ -40,3 +41,4 @@ Dig, set, hit cross
 # Game
 First to 25
 Introducing the tempo sets and calls we want
+

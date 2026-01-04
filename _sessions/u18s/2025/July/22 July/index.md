@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Power and hitting"
 date: "2025-07-22"
 description: Looking at how we get power into our attacks

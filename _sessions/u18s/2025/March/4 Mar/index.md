@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Bunch read and defence"
 date: "2025-03-04"
 description: Looking at our blocking formation
@@ -38,3 +39,4 @@ First to 25
 - Bunch block 1 point
 - low and off the cover 1 point
 Wash with a downball
+

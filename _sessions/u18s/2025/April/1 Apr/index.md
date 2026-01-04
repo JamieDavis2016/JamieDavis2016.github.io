@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Right side and 6 defence"
 date: "2025-04-01"
 description: Looking at using our opposite / right side hitter and how we defend as 6
@@ -28,5 +29,6 @@ Ball control drill 30 reps before moving onto the next one and if the ball drops
 
 # Game
 First to 25
+
 
 

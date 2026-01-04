@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "in and out of system play"
 date: "2024-11-07"
 description: Looking at in and out of system play
@@ -28,5 +29,6 @@ Look at passing for athletes
 # Game
 - Defensive positioning
 First to 25
+
 
 

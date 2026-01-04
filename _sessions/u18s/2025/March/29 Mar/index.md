@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Serve receive"
 date: "2025-03-29"
 description: Looking at complex components of siding out with on SR and defence
@@ -21,5 +22,6 @@ This was our hitting lines setup, this was to enable outside and oppo practce as
 
 # Game
 First to 25
+
 
 

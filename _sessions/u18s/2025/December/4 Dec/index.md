@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Transitioning"
 date: "2025-12-4"
 description: Transitioning off the net
@@ -31,5 +32,6 @@ Whilst doing this everyone is doing hitting lines
 
 # Game 
 First to 25
+
 
 

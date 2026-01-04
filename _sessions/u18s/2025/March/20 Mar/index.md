@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Hitting, arm swing and hitting hard"
 date: "2025-03-20"
 description: Looking at how we generate power
@@ -25,3 +26,4 @@ harder, platform
 
 # Game
 First to 25
+

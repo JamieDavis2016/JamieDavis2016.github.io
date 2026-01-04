@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Cross Court play"
 date: "2025-10-14"
 description: Looking at how we handle cross court play
@@ -41,5 +42,6 @@ Jump approaches
   
 # Game 
 First to 25
+
 
 

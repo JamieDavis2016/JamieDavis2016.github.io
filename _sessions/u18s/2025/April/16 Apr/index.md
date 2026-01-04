@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Passing and hitting mechanics"
 date: "2025-04-16"
 description: Freezing to target and working on hitting mechanics with a throw

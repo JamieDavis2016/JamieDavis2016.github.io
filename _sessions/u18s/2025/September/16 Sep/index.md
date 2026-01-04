@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Defensive Readiness"
 date: "2025-09-16"
 description: Looking at defensive posture and being ready
@@ -30,3 +31,4 @@ description: Looking at defensive posture and being ready
 
 # Game - Setter in 1
 First to 25
+

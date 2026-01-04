@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Communication"
 date: "2024-01-23"
 description: Communication
@@ -33,3 +34,4 @@ Communication
 - No communication is a forfeit
 - Freeball to opposition is a forfeit
     
+

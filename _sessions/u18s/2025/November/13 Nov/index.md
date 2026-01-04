@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Movement in SR"
 date: "2025-11-13"
 description: Working on movement in SR and aiming for 3 step shuffles
@@ -31,5 +32,6 @@ Serving against a wall for 2 mins, working on contact
 
 # Game 
 First to 25
+
 
 

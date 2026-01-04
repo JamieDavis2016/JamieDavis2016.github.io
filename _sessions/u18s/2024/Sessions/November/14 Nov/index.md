@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Tipping and ball control"
 date: "2024-11-14"
 description: How we can use ball control and tipping
@@ -35,5 +36,6 @@ Approach, swing (Looking at somw AOC videos)
 
 # Game
 First to 25
+
 
 

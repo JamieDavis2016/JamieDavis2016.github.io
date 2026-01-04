@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Practice on attacking lines (tempo part 2)"
 date: "2025-01-14"
 description: Looking at attacking approach, with continuation of tempo
@@ -36,3 +37,4 @@ Adding the block into the attack
 - Add a free ball in
 First to 25
 Introducing the tempo sets and calls we want
+

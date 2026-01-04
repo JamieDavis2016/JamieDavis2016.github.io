@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Controlled play"
 date: "2024-10-31"
 description: Looking at how we can keep the game in play
@@ -39,5 +40,6 @@ Getting familiar with arms being away from body on our pass
 
 # Game
 First to 25
+
 
 

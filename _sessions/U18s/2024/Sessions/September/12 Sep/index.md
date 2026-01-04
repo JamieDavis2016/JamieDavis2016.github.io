@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Hitting and blocking"
 date: "2024-09-12"
 description: Looking at our attack and block
@@ -37,3 +38,4 @@ We went over switching from perimeter defence to rotational defence
 - Contact on body rotation
 - Hand open (egg splat)
 - Blocking on swings
+

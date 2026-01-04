@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Changing to a 6:2 system"
 date: "2025-11-13"
 description: We decided as a team to try out a 6:2 system
@@ -26,5 +27,6 @@ I.E if an attack hits the net, we go back to the set, and the attacker goes agai
 
 # Game 
 First to 25
+
 
 

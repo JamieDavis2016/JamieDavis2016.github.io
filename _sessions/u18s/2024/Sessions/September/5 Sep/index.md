@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "5 : 1 rotation cont."
 date: "2024-09-05"
 description: Learning a 5:1, in game rally

@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Service reception"
 date: "2025-01-16"
 description: Working on our service reception
@@ -23,3 +24,4 @@ Swapping every 8 passes
 # Game
 First to 25
 Introducing the tempo sets and calls we want
+

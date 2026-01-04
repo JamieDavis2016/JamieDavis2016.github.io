@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Attacking fundamentals Pt 2."
 date: "2024-11-26"
 description: Looking at attacking fundamentals
@@ -30,5 +31,6 @@ Looking at our out of system play
 
 # Game
 First to 25
+
 
 

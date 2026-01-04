@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Defence priority"
 date: "2025-09-18"
 description: Looking at defensive priority
@@ -25,3 +26,4 @@ Cannot score if we're not in the correct defensive positions
 
 # Game 2
 First to 25
+

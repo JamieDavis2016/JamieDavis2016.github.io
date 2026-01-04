@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Setting numbers Contd."
 date: "2024-03-12"
 description: Setting tempos
@@ -24,5 +25,6 @@ Quote:
 - Call 50, 10, pipe, 51 / middle
 
 <img src="two tempo drill.png" max-width="800px" caption="two_tempo_drill">
+
 
 

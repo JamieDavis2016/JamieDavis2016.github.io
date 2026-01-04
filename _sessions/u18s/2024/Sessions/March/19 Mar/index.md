@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Fundamental passing and hitting"
 date: "2024-03-19"
 description: Fundamental passing and hitting
@@ -27,3 +28,4 @@ and full rotation
 Watching for arm swing, footwork, low to the floor
 
 Cross court hitting, with a forearm pass, into a controlled rally
+

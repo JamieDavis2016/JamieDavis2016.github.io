@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Serve and Receive"
 date: "2024-10-29"
 description: Looking at serve receive
@@ -24,5 +25,6 @@ Looking at serve receive
 
 # Game
 First to 25
+
 
 

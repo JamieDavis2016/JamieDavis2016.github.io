@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Footwork and guiding swing"
 date: "2025-01-21"
 description: Working on footwork and how we attack the ball using our guiding arm
@@ -23,3 +24,4 @@ Swapping every 8 passes
 # Game
 First to 25
 Introducing the tempo sets and calls we want
+

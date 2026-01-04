@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Attacking fundamentals"
 date: "2024-11-19"
 description: Looking at attacking fundamentals
@@ -29,5 +30,6 @@ Swing away (volleyball fundamentals book), 2 step
 
 # Game
 First to 25
+
 
 

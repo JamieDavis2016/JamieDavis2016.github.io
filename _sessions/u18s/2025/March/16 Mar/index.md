@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "GP #5 Last GP of the year"
 date: "2025-03-16"
 description: Last tournament

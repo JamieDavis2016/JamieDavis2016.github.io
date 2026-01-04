@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Covering the hitter"
 date: "2024-10-17"
 description: Covering our hitters
@@ -28,5 +29,6 @@ Playing set hits and other team has to read the attack and adapt off of it
 
 # Game
 First to 25
+
 
 

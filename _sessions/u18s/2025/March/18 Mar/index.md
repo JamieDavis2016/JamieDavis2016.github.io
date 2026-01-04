@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Season is over, sessions continue"
 date: "2025-03-18"
 description: We have just finished out last tournament, but our kent league is not over yet
