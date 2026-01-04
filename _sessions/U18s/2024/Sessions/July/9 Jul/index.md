@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "All about defence"
 date: "2024-07-09"
 description: Defensive posture
@@ -38,6 +37,5 @@ All about defence
 # 3 Back Cuban Drill
 - Just defence and movement
 - Call switch
-
 
 

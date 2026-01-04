@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Communication, precision and attack"
 date: "2025-02-25"
 description: Going more onto communication and passing from last session
@@ -26,4 +25,3 @@ Wash drill with a free ball
   
 # Game
 First to 25 
-

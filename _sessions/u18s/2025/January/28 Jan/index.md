@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Defence, passing platform"
 date: "2025-01-28"
 description: Working on our platform being strong on contact

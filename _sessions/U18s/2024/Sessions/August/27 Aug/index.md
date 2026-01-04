@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Serving and Serve Receive"
 date: "2024-08-27"
 description: Serving and Serve Receive
@@ -31,5 +30,4 @@ Including;
 
 ### Games
 - Playing out rotational system
-
 

@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Ball control"
 date: "2024-08-20"
 description: Ball control

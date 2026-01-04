@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Service Contact"
 date: "2025-01-09"
 description: Looking at how we are contacting the serve
@@ -38,4 +37,3 @@ Looking at communication
 # Game
 First to 25
 Introducing the tempo sets and calls we want
-

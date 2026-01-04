@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Defensive Systems"
 date: "2024-09-19"
 description: Looking at our defensive systems

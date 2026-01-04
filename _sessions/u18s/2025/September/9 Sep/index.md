@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Working on attacking mechanics"
 date: "2025-09-09"
 description: Looking at attacking mechanics
@@ -39,4 +38,3 @@ If setter is front court pass 2nd ball to them, if back court, live takes the 2n
 
 # Game
 First to 25
-

@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Setting numbers"
 date: "2024-03-05"
 description: Setting tempos
@@ -40,4 +39,3 @@ Setting tempo numbers and using the setting grid system
 
 ### Games
 First to 25
-

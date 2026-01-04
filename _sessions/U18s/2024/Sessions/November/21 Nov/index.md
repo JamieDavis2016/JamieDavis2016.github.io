@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Pre play scenarios"
 date: "2024-11-21"
 description: Looking at serving technique and some pre play scenarios
@@ -31,6 +30,5 @@ Note; (2 step approach)
 
 # One point kill or Game
 First to 25
-
 
 

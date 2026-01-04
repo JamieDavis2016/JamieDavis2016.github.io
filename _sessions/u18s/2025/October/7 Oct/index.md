@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Building consistent hittable balls"
 date: "2025-10-07"
 description: Looking at how we can build consistent hittable balls
@@ -34,6 +33,5 @@ Overpass = lost point (so stop overpassing)
  
 # Game 
 First to 25
-
 
 

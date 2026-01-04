@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Serving"
 date: "2024-03-26"
 description: Serving contact
@@ -36,4 +35,3 @@ Walk Approach
 Standing still
 
 # End of season
-

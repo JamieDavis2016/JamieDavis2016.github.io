@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "5:1 rotational system"
 date: "2024-09-03"
 description: Learning a 5:1 rotational system

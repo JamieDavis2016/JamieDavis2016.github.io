@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Bunch read and defence Contd."
 date: "2025-03-04"
 description: Looking at our blocking formation continued.
@@ -34,4 +33,3 @@ Still working on bunch blocking in rally as well
 
 # Game
 First to 25 
-

@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Blocking"
 date: "2025-02-04"
 description: Blocking fundamentals
@@ -30,4 +29,3 @@ What are we trying to achieve?
 
 # Game
 First to 25 
-

@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Getting playing reps in"
 date: "2024-10-22"
 description: Looking at hand contact with play
@@ -30,6 +29,5 @@ Notes; Looking at trying to get to 3 - 4 steps, with balls of feet
 
 # Game
 First to 25
-
 
 

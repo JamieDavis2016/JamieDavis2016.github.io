@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "After GP #1 Practice"
 date: "2024-10-08"
 description: Practice after our First GP, taking it a bit easier

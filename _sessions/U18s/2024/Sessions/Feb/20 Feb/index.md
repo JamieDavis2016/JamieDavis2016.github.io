@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Footwork and control"
 date: "2024-02-20"
 description: Footwork and control
@@ -32,4 +31,3 @@ Start team chat, 5 minutes (holidays, etc)
 3. Wrist away, thumb down, hit at 1
 
 Think: no lookie, no cookie
-

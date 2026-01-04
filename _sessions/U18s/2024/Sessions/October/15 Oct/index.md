@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "More cross court"
 date: "2024-10-15"
 description: Seeing a repetition on getting our cross court stronger..
@@ -35,6 +34,5 @@ Change the cross court to be the opposite
 
 # Game
 First to 25
-
 
 

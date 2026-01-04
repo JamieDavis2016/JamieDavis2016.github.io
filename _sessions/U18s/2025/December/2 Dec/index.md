@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Service and service reception - trying to get 8 out of 10 of serves in"
 date: "2025-12-02"
 description: Trying to get our service and serve reception competitive

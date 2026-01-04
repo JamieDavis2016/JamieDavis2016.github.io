@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Serve - Recieve"
 date: "2024-07-30"
 description: Serving Aggressive, getting the opposition out of system

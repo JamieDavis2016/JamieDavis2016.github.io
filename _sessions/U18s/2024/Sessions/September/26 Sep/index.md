@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Out of system and in system play"
 date: "2024-09-26"
 description: Looking at the differences in our in system and out of system play

@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Hitting"
 date: "2024-11-05"
 description: Looking at Cross court and serve receive
@@ -40,6 +39,5 @@ Looking at cross court, serve receive and seam systems
 
 # Game
 First to 25
-
 
 

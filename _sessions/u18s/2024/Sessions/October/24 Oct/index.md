@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Covering the court, getting an attack"
 date: "2024-10-24"
 description: Looking at how we cover the court and how we can get an attack each time
@@ -28,6 +27,5 @@ Choice was to then play scrimmage or out of system defence (ofcourse the game wa
 
 # Game
 First to 25
-
 
 

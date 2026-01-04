@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Movement"
 date: "2023-12-05"
 description: Looking at movement on court

@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Service and Serve reception"
 date: "2025-10-28"
 description: Working on that deep service and reception into court
@@ -32,6 +31,5 @@ Looking at shuffle in SR / 3 steps to get there!
 
 # Game 
 First to 25
-
 
 

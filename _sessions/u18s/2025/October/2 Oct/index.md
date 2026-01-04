@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Blocking training / reading"
 date: "2025-10-02"
 description: 
@@ -38,6 +37,5 @@ description:
 
 # Game 
 First to 25
-
 
 

@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "More right side hitting and pipe"
 date: "2025-04-08"
 description: Looking at using our opposite / right side hitter and how we defend as 6 (contd)
@@ -29,4 +28,3 @@ Ball control drill 30 reps before moving onto the next one and if the ball drops
 
 # Game
 First to 25
-

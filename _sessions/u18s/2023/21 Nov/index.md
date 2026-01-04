@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Gameplay / Teamwork"
 date: "2023-11-21"
 description: Working on teamwork
@@ -38,4 +37,3 @@ Over, under the net
 Coming in close
 Far away
 Off the net
-

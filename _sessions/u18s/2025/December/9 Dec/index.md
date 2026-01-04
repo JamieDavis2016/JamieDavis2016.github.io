@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Transitioning around the court"
 date: "2025-12-9"
 description: Transitioning around the court to be ready from defence to offence and vice versa
@@ -33,6 +32,5 @@ Just a few minutes going through our attacking approach and what our legs should
 
 # Game 
 First to 25
-
 
 

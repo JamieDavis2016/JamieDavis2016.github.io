@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Serve Receive"
 date: "2024-01-30"
 description: Serve and receive, ball control

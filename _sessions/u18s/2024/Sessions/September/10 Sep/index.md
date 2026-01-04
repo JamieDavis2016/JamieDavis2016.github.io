@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Serve Receive movement"
 date: "2024-09-10"
 description: Looking at our movement in Serve reception, to enable a good pass
@@ -40,4 +39,3 @@ outsides come to touch 3m, receieve from 5(RB) 6(MB) and 1(LB)
 
 # Game
 First to 25
-

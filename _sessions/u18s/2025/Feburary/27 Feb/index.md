@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Base transitions"
 date: "2025-02-27"
 description: Looking at how we transition from base positions
@@ -41,4 +40,3 @@ Discussion around our transitioning and defence
 
 # Game
 First to 25 
-

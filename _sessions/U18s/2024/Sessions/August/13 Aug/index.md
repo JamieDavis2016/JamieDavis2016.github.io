@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Defensive systems"
 date: "2024-08-13"
 description: What kind of defensive system do we want to run?
@@ -45,5 +44,4 @@ When looking at the system for back court
 
 # Gameplay
 First to 25
-
 

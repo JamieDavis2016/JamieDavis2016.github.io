@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Systems, middle and pipe"
 date: "2024-10-10"
 description: How we are running our middle and pipe attacks

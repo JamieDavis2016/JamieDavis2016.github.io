@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Passing control and communication"
 date: "2025-02-18"
 description: Using passing and communication to enable the team to play together
@@ -38,4 +37,3 @@ Passing control and communication
 
 # Game
 First to 25 
-

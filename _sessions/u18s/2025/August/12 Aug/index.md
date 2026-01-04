@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Serving - give it your all"
 date: "2025-08-12"
 description: Looking at how we can get our services going

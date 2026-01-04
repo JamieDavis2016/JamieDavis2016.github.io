@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Individual skills"
 date: "2025-02-11"
 description: This was broken down into 3 different skill sections
@@ -33,4 +32,3 @@ Lastly, 15 up (same side defence)
 
 # Game
 First to 25 
-

@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Session after GP#2"
 date: "2024-11-12"
 description: A bit of an easier session but focusing on what we learned
@@ -28,6 +27,5 @@ Ball control
 
 # Game
 First to 25
-
 
 

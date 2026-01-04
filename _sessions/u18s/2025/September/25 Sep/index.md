@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Defensive movement"
 date: "2025-09-25"
 description: Looking at defensive movement how we use our legs to get to the ball
@@ -36,4 +35,3 @@ Getting to the ball with your legs first, using shuffle steps 80% of balls to be
 
 # Game 
 First to 25
-

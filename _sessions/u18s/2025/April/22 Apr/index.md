@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Ball Control"
 date: "2025-04-22"
 description: Working on ball control on passing

@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Service picking different spots"
 date: "2025-11-06"
 description: Working on picking your serve
@@ -35,6 +34,5 @@ Playing a rally out where the first attack ends the rally, if defence get a touc
 
 # Game 
 First to 25
-
 
 

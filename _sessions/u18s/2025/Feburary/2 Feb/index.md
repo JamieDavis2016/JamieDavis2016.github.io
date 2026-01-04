@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "GP #4"
 date: "2025-02-02"
 description: This is our Grand prix tournament notes

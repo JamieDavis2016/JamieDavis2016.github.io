@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Chasing the ball"
 date: "2024-07-16"
 description: Getting used to chasing the ball as a team
@@ -30,4 +29,3 @@ Getting used to chasing the ball as a team
 
 # Gameplay on Serve
 - Points to 25
-

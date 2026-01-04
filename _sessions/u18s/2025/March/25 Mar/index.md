@@ -1,5 +1,4 @@
-﻿---
-layout: post
+---
 title: "Out of system around pipe"
 date: "2025-03-25"
 description: Looking at out of system and pipe attacks
@@ -20,4 +19,3 @@ description: Looking at out of system and pipe attacks
 # Game
 Serve / 2 part
 feed in (ball to pipe)
-
