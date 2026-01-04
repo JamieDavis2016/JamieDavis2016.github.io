@@ -28,5 +28,3 @@ Ball control drill 30 reps before moving onto the next one and if the ball drops
 
 # Game
 First to 25
-
-

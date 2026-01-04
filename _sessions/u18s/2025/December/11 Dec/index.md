@@ -42,3 +42,5 @@ approach / hand contact in our attack, palm hitting the ball 50% of the time and
 - Light jog
 - Stretches
  
+
+ We wrapped up here for the holidays, the next session was just games and fun just a regular 6 vs 6, into 2026 we go!
