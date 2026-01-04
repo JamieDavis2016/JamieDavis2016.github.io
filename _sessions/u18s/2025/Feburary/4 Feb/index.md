@@ -2,6 +2,7 @@
 title: "Blocking"
 date: "2025-02-04"
 description: Blocking fundamentals
+layout: post
 ---
 
 # Warmup

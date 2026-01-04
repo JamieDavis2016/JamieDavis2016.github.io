@@ -2,6 +2,7 @@
 title: "Service and service reception - trying to get 8 out of 10 of serves in"
 date: "2024-12-10"
 description: Trying to get our service and serve reception competitive
+layout: post
 ---
 
 # Pre-requisites

@@ -2,6 +2,7 @@
 title: "Footwork and guiding swing"
 date: "2025-01-21"
 description: Working on footwork and how we attack the ball using our guiding arm
+layout: post
 ---
 
 # Warmup (15 mins)

@@ -2,6 +2,7 @@
 title: "Serve receive"
 date: "2025-03-29"
 description: Looking at complex components of siding out with on SR and defence
+layout: post
 ---
 
 # Warmup (20 mins)

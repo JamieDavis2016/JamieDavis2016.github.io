@@ -2,6 +2,7 @@
 title: "Setting numbers"
 date: "2024-03-05"
 description: Setting tempos
+layout: post
 ---
 
 # Focus

@@ -2,6 +2,7 @@
 title: "Aggression and making mistakes"
 date: "2025-07-15"
 description: Working on being aggressive and how to handle mistakes
+layout: post
 ---
 
 # Warmup (20mins)

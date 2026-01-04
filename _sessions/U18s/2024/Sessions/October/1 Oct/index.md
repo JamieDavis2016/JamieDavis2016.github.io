@@ -2,6 +2,7 @@
 title: "Blocking and cross court"
 date: "2024-10-01"
 description: Blocking and cross court play, focusing on our block handling a cross court attack
+layout: post
 ---
 
 # Focus

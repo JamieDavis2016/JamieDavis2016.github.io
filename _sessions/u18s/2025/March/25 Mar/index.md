@@ -2,6 +2,7 @@
 title: "Out of system around pipe"
 date: "2025-03-25"
 description: Looking at out of system and pipe attacks
+layout: post
 ---
 
 # Warmup (20 mins)

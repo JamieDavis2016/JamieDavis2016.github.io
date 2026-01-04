@@ -2,6 +2,7 @@
 title: "Blocking training / reading"
 date: "2025-10-02"
 description: 
+layout: post
 ---
 
 # Resources

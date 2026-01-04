@@ -2,6 +2,7 @@
 title: "Communication, precision and attack"
 date: "2025-02-25"
 description: Going more onto communication and passing from last session
+layout: post
 ---
 
 # Warmup (20mins)

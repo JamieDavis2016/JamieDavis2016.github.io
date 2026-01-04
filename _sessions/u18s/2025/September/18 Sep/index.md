@@ -2,6 +2,7 @@
 title: "Defence priority"
 date: "2025-09-18"
 description: Looking at defensive priority
+layout: post
 ---
 
 # Resources

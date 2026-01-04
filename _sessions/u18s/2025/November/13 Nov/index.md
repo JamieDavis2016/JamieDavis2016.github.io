@@ -2,6 +2,7 @@
 title: "Movement in SR"
 date: "2025-11-13"
 description: Working on movement in SR and aiming for 3 step shuffles
+layout: post
 ---
 
 # Focus;

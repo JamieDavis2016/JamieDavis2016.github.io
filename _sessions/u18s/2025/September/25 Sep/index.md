@@ -2,6 +2,7 @@
 title: "Defensive movement"
 date: "2025-09-25"
 description: Looking at defensive movement how we use our legs to get to the ball
+layout: post
 ---
 
 # Resources

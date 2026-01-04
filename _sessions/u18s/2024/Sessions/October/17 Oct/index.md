@@ -2,6 +2,7 @@
 title: "Covering the hitter"
 date: "2024-10-17"
 description: Covering our hitters
+layout: post
 ---
 
 # Focus

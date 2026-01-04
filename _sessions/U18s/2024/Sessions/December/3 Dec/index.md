@@ -2,6 +2,7 @@
 title: "Base Positions"
 date: "2024-12-03"
 description: Base positioning on court, blocking channels
+layout: post
 ---
 
 # Focus

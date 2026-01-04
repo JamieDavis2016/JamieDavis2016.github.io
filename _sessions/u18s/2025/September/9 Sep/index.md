@@ -2,6 +2,7 @@
 title: "Working on attacking mechanics"
 date: "2025-09-09"
 description: Looking at attacking mechanics
+layout: post
 ---
 
 # Warmup 

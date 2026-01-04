@@ -2,6 +2,7 @@
 title: "Base transitions"
 date: "2025-02-27"
 description: Looking at how we transition from base positions
+layout: post
 ---
 
 # Warmup (20mins)

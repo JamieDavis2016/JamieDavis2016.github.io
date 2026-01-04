@@ -2,6 +2,7 @@
 title: "Serving Endline"
 date: "2025-10-21"
 description: Serving deep float serves, also working on receive
+layout: post
 ---
 
 # Focus;

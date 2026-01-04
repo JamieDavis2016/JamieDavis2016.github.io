@@ -2,6 +2,7 @@
 title: "Footwork and movement"
 date: "2024-02-27"
 description: Footwork and movement
+layout: post
 ---
 
 # Focus

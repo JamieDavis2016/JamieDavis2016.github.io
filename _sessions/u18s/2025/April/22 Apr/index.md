@@ -2,6 +2,7 @@
 title: "Ball Control"
 date: "2025-04-22"
 description: Working on ball control on passing
+layout: post
 ---
 
 # Warmup (20mins)

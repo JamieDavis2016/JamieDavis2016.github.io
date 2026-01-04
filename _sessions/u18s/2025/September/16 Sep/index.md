@@ -2,6 +2,7 @@
 title: "Defensive Readiness"
 date: "2025-09-16"
 description: Looking at defensive posture and being ready
+layout: post
 ---
 
 # Resources

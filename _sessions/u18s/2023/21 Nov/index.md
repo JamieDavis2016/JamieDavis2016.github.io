@@ -2,6 +2,7 @@
 title: "Gameplay / Teamwork"
 date: "2023-11-21"
 description: Working on teamwork
+layout: post
 ---
 
 Hi all, this is my first time writing and discussing my sessions with my U18s junior group, lets see how this goes. It will just be short detailed plans of my sessions (with names removed)

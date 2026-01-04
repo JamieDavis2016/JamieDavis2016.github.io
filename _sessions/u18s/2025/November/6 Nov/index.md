@@ -2,6 +2,7 @@
 title: "Service picking different spots"
 date: "2025-11-06"
 description: Working on picking your serve
+layout: post
 ---
 
 # Focus;

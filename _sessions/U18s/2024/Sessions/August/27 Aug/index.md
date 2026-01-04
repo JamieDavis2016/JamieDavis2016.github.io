@@ -2,6 +2,7 @@
 title: "Serving and Serve Receive"
 date: "2024-08-27"
 description: Serving and Serve Receive
+layout: post
 ---
 
 # Focus

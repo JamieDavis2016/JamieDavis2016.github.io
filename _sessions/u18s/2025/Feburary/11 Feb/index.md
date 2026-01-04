@@ -2,6 +2,7 @@
 title: "Individual skills"
 date: "2025-02-11"
 description: This was broken down into 3 different skill sections
+layout: post
 ---
 
 # Warmup

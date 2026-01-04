@@ -2,6 +2,7 @@
 title: "Playing defensively and offensively"
 date: "2025-08-19"
 description: Looking at how we can play defensively at position 5 and getting used to being aggressive
+layout: post
 ---
 
 # What we have

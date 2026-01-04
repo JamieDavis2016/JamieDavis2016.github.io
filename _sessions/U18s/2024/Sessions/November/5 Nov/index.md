@@ -2,6 +2,7 @@
 title: "Hitting"
 date: "2024-11-05"
 description: Looking at Cross court and serve receive
+layout: post
 ---
 
 # Focus

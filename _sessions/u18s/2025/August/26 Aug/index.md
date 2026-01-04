@@ -2,6 +2,7 @@
 title: "Attacking and defence priority"
 date: "2025-08-26"
 description: Looking at how we build a priority system in our defence
+layout: post
 ---
 
 # What we have

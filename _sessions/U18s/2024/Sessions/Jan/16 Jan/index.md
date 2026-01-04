@@ -2,6 +2,7 @@
 title: "Block and cover"
 date: "2024-01-16"
 description: Block and cover session
+layout: post
 ---
 
 # Focus

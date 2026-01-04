@@ -2,6 +2,7 @@
 title: "Ball control"
 date: "2024-08-20"
 description: Ball control
+layout: post
 ---
 
 Thought I'd try writing this session up and then converting it to AI and this is what it spat out. Might experiment with this.

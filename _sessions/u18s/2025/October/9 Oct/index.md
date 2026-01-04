@@ -2,6 +2,7 @@
 title: "Using defensive posture and getting low"
 date: "2025-10-09"
 description: Looking at how we get low to the ground in defence
+layout: post
 ---
 
 # Focus;

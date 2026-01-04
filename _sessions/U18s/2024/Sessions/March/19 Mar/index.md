@@ -2,6 +2,7 @@
 title: "Fundamental passing and hitting"
 date: "2024-03-19"
 description: Fundamental passing and hitting
+layout: post
 ---
 
 # Focus

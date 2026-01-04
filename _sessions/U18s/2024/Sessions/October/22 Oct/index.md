@@ -2,6 +2,7 @@
 title: "Getting playing reps in"
 date: "2024-10-22"
 description: Looking at hand contact with play
+layout: post
 ---
 
 # Focus

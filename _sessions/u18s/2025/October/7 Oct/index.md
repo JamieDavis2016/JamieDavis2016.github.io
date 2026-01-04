@@ -2,6 +2,7 @@
 title: "Building consistent hittable balls"
 date: "2025-10-07"
 description: Looking at how we can build consistent hittable balls
+layout: post
 ---
 
 # Focus;

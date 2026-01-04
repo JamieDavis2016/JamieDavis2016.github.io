@@ -2,6 +2,7 @@
 title: "Passing control"
 date: "2024-07-23"
 description: Moving from chasing to passing control
+layout: post
 ---
 
 # Focus

@@ -2,6 +2,7 @@
 title: "Changing to a 6:2 system"
 date: "2025-11-13"
 description: We decided as a team to try out a 6:2 system
+layout: post
 ---
 
 # Focus;

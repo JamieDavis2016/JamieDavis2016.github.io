@@ -2,6 +2,7 @@
 title: "GP #4"
 date: "2025-02-02"
 description: This is our Grand prix tournament notes
+layout: post
 ---
 
 Outside of the scores and games played

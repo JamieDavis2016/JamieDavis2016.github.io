@@ -2,6 +2,7 @@
 title: "Service and Serve reception"
 date: "2025-10-28"
 description: Working on that deep service and reception into court
+layout: post
 ---
 
 # Focus;

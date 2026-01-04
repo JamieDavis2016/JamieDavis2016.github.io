@@ -2,6 +2,7 @@
 title: "Bunch read and defence"
 date: "2025-03-04"
 description: Looking at our blocking formation
+layout: post
 ---
 
 We also got promoted to the silver cup for our last GP #5!

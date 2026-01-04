@@ -2,6 +2,7 @@
 title: "Lots of positional play"
 date: "2025-09-11"
 description: Looking at getting familiar with running a 5:1 system
+layout: post
 ---
 
 # Resources

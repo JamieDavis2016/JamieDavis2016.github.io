@@ -2,6 +2,7 @@
 title: "More cross court"
 date: "2024-10-15"
 description: Seeing a repetition on getting our cross court stronger..
+layout: post
 ---
 
 # Focus

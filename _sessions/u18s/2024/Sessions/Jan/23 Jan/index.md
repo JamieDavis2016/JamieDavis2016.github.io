@@ -2,6 +2,7 @@
 title: "Communication"
 date: "2024-01-23"
 description: Communication
+layout: post
 ---
 
 # Focus

@@ -2,6 +2,7 @@
 title: "2nd to Last practice before final tournament of year"
 date: "2025-03-11"
 description: This is our last practice before last tournament of the year
+layout: post
 ---
 
 # Checklist

@@ -2,6 +2,7 @@
 title: "Passing control and communication"
 date: "2025-02-18"
 description: Using passing and communication to enable the team to play together
+layout: post
 ---
 
 # Warmup

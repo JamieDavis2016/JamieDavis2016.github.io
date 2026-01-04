@@ -2,6 +2,7 @@
 title: "Service reception"
 date: "2025-01-16"
 description: Working on our service reception
+layout: post
 ---
 
 # Warmup (15 mins)

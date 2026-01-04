@@ -2,6 +2,7 @@
 title: "All about defence"
 date: "2024-07-09"
 description: Defensive posture
+layout: post
 ---
 
 # Focus

@@ -2,6 +2,7 @@
 title: "More right side hitting and pipe"
 date: "2025-04-08"
 description: Looking at using our opposite / right side hitter and how we defend as 6 (contd)
+layout: post
 ---
 
 # Warmup (20 mins)

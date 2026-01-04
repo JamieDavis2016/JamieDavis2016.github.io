@@ -2,6 +2,7 @@
 title: "Session after GP#2"
 date: "2024-11-12"
 description: A bit of an easier session but focusing on what we learned
+layout: post
 ---
 
 GP #2 was on the 10th and so we have an easier session to think and reflect on what happened, we unfortunately had quite a few players ill / sick whilst still playing

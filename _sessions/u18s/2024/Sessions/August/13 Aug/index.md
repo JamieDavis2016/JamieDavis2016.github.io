@@ -2,6 +2,7 @@
 title: "Defensive systems"
 date: "2024-08-13"
 description: What kind of defensive system do we want to run?
+layout: post
 ---
 
 # Focus

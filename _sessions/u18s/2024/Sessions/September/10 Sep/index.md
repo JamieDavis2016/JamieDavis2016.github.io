@@ -2,6 +2,7 @@
 title: "Serve Receive movement"
 date: "2024-09-10"
 description: Looking at our movement in Serve reception, to enable a good pass
+layout: post
 ---
 
 # Focus

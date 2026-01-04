@@ -2,6 +2,7 @@
 title: "Attacking fundamentals"
 date: "2024-11-19"
 description: Looking at attacking fundamentals
+layout: post
 ---
 
 # Focus

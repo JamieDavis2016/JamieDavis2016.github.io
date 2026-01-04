@@ -2,6 +2,7 @@
 title: "Tempo balls"
 date: "2025-01-07"
 description: Creating a system where we understand how to run a tempo attack (starting)
+layout: post
 ---
 
 4 weeks till GP + 3 matches before

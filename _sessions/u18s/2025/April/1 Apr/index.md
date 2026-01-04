@@ -2,6 +2,7 @@
 title: "Right side and 6 defence"
 date: "2025-04-01"
 description: Looking at using our opposite / right side hitter and how we defend as 6
+layout: post
 ---
 
 # Warmup (20 mins)

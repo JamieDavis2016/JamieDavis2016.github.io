@@ -2,6 +2,7 @@
 title: "Float service"
 date: "2025-03-27"
 description: Going over float service (again)
+layout: post
 ---
 
 # Warmup (20 mins)

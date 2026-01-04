@@ -2,6 +2,7 @@
 title: "Transitioning"
 date: "2025-12-4"
 description: Transitioning off the net
+layout: post
 ---
 
 # Focus;

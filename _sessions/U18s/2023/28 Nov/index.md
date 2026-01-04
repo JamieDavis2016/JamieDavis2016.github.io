@@ -2,6 +2,7 @@
 title: "Serving"
 date: "2023-11-28"
 description: Serving
+layout: post
 ---
 
 # Focus

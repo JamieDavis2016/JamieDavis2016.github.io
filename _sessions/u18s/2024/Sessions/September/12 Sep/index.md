@@ -2,6 +2,7 @@
 title: "Hitting and blocking"
 date: "2024-09-12"
 description: Looking at our attack and block
+layout: post
 ---
 
 # Focus

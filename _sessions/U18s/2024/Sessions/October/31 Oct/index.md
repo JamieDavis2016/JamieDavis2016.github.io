@@ -2,6 +2,7 @@
 title: "Controlled play"
 date: "2024-10-31"
 description: Looking at how we can keep the game in play
+layout: post
 ---
 
 # Focus

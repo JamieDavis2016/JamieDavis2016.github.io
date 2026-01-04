@@ -2,6 +2,7 @@
 title: "Practice on attacking lines (tempo part 2)"
 date: "2025-01-14"
 description: Looking at attacking approach, with continuation of tempo
+layout: post
 ---
 
 # Warmup (30 mins)

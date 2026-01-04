@@ -2,6 +2,7 @@
 title: "Service Contact"
 date: "2025-01-09"
 description: Looking at how we are contacting the serve
+layout: post
 ---
 
 We didn't run more on tempo this week due to having a mixed group with our U16 players

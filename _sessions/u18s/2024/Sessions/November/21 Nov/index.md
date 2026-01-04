@@ -2,6 +2,7 @@
 title: "Pre play scenarios"
 date: "2024-11-21"
 description: Looking at serving technique and some pre play scenarios
+layout: post
 ---
 
 # Focus

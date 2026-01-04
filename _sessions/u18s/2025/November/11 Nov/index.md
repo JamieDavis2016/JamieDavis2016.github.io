@@ -2,6 +2,7 @@
 title: "Movement on court"
 date: "2025-11-11"
 description: Working on how we move around the court and not being static
+layout: post
 ---
 
 We had a difficult tournament before and so switched focus to movement on court to keep things a bit more fresh, whilst still working on our serving and SR programme (for 4 / 6 weeks)
