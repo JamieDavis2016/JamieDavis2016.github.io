@@ -2,6 +2,7 @@
 title: "Selecting serve"
 date: "2025-11-04"
 description: Working on picking your serve
+layout: post
 ---
 
 # Focus;
@@ -28,5 +29,3 @@ Looking at shuffle in SR / 3 steps to get there!
 
 # Game 
 First to 25
-
-

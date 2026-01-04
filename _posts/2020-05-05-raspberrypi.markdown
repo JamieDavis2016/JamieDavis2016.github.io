@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Creating a Raspberry Pi Webserver headless"
 date:   2020-05-05 13:44:23 +0100
 categories: RaspberryPi
@@ -8,6 +7,7 @@ header:
      caption: "Time to do: 30minutes"
      show_overlay_excerpt: false
 excerpt: How to create a Raspberry Pi server headlessly, so you don't need to use a HDMI cable
+layout: post
 ---
 
 ## Requirements / Items

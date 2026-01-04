@@ -29,3 +29,18 @@ This site contains session notes, amongst other things
     </li>
   {% endfor %}
 </ul>
+
+# All Sessions
+
+{% assign all = site.sessions | sort: "date" | reverse %}
+
+<ul>
+  {% for allSession in all %}
+    <li>
+      <a href="{{ allSession.url }}">{{ allSession.title }}</a>
+      <small>
+        ({{ allSession.group }} — {{ allSession.date | date: "%d %b %Y" }})
+      </small>
+    </li>
+  {% endfor %}
+</ul>
