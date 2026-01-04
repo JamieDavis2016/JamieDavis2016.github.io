@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Approach and hand contact / defensive posture"
 date: "2025-12-11"
 description: Looking at our 2 / 3 step approach and having clear vision as a defender

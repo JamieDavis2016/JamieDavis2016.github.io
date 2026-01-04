@@ -2,6 +2,7 @@
 title: "Transitioning around the court"
 date: "2025-12-9"
 description: Transitioning around the court to be ready from defence to offence and vice versa
+layout: post
 ---
 
 We had a rough tournament so switched up our serve and reception programme for a break
