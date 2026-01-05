@@ -51,7 +51,7 @@ defaults:
       type: sessions
     values:
       group: "U18s"
-
+future: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
