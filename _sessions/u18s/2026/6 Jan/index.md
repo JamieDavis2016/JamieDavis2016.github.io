@@ -36,6 +36,9 @@ These are some technical techniques that are used, that we can go through
 For those that would like a short;
 ### <a href="https://youtube.com/shorts/5p-eDwQjx98?si=oaaKKRI6iXwHbVE1">Diving short<a>
 
+The first few words are the most important, diving should be a last resort!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vkF1XcizFLM?si=EdGYu_t3lp0Uvwrn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HgGa1NRcgag?si=uuuwX5IkLm_MUdCM&amp;start=198" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I'm sure you've all heard of him..
