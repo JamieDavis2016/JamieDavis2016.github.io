@@ -5,7 +5,7 @@ description: Looking at getting our movement low and being able to fall to the f
 layout: post
 ---
 
-This is our first session back after the christmas break (desperately needed), we're looking at how we play our defence low
+This is our first session back after the christmas break! (desperately needed), we're looking at how we play our defence low
 
 # Movement and getting low, how we do it
 
@@ -31,14 +31,13 @@ Initiation will be a 3m / where you are working on float serve mechanics
 A little play around with how we fall / dive
 - A key principle to me.. Be low first, it's a lot safer and a lot easier to dive when we're already low, going outo the outside of the leg you're falling on to take the weight
 
-These are some technical techniques that are used, that we can go through
-
 For those that would like a short;
-### <a href="https://youtube.com/shorts/5p-eDwQjx98?si=oaaKKRI6iXwHbVE1">Diving short<a>
+### <a href="https://youtube.com/shorts/5p-eDwQjx98?si=oaaKKRI6iXwHbVE1">Diving short</a>
 
 The first few words are the most important, diving should be a last resort!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vkF1XcizFLM?si=EdGYu_t3lp0Uvwrn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+These are some technical techniques that are used, that we can go through
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HgGa1NRcgag?si=uuuwX5IkLm_MUdCM&amp;start=198" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I'm sure you've all heard of him..
@@ -64,3 +63,17 @@ playing 6 vs 6, serve initiation
 
 ## Exercise 6  Endless drill
 we play where the last mistake was with a mix of putting the ball at the net / into a position we must run for
+
+# Reflection (07/01)
+
+We ended up doing our warmup for about 30 minutes, there was a lot of gametime and it was fast paced, getting lots of reps in, we did the volleying into attacking, probably left the volleying for too long
+
+After we moved into diving (I moved that up as it was a slower activity), this was interesting to see everyone figuring out how to do a dive or how to fall safely, we practiced this and put it right into the not 4th activity
+
+Moving onto touch and go, I found this to maybe be a bit out of sync from the diving so should maybe think about how to use this time better, also getting distracted as we had another junior wanting to learn how to dive so I did some one on one with the junior to teach them the basics
+
+After we put exercise 4 to the test, putting a throw to the net, a lot of people really tried to get to the ball, seeing good commitment and trying to still do the dive / fall, the only last caveat to this was that I maybe should have emphasised that on the 3rd touch we still want to attack
+
+Then lastly, I ended up having to scrap exercises 5 and 6, in prep for our game on Sunday (so allowing the team to practice some rotation) and also being asked to be a 6th on court
+
+Overall I found the session to be work to wards the focus and goal
