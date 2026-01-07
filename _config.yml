@@ -41,6 +41,12 @@ defaults:
       group: "Kent womens"
 
   - scope:
+      path: "_sessions/kent-mens"
+      type: sessions
+    values:
+      group: "Kent mens"
+
+  - scope:
       path: "_sessions/friday-social-sessions"
       type: sessions
     values:
