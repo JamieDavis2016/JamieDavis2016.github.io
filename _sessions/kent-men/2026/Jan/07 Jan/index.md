@@ -12,7 +12,7 @@ First session back after xmas
 - 6 to 10 balls
 - 11 players
 
-# Movement and getting low, how we do it
+# Building our tempo and cross court play
 
 # Focus;
 Playing cross court, keeping with the tempo we tried running in the session before, if we can run this as an attack in game awesome
