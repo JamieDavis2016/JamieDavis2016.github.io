@@ -5,7 +5,7 @@ description: Looking at how we can use blocking and blocking strategies with foo
 layout: post
 ---
 
-# Bunch blockng and blocking footwork patterns
+# Bunch blocking and blocking footwork patterns
 
 To also gain an idea I was checking out how NCAA and other leagues have been running their blocking systems, and it's very interesting seeing such a wide variety of footwork used
 
