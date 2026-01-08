@@ -1,5 +1,5 @@
 ---
-title: "Bunch blockng and blocking footwork patterns"
+title: "Bunch blocking and blocking footwork patterns"
 date: "2026-01-08"
 description: Looking at how we can use blocking and blocking strategies with footwork
 layout: post
