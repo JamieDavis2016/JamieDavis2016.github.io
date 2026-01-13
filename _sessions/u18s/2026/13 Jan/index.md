@@ -20,6 +20,9 @@ Adding in the jump and attack
 - After we'll add our 2 / 3 step approaches into this working on torquing
   - More advanced can look at cross, line and sharp cross (how we go through the momentum of our bodies)
 
+## Activity 1.2 - Ball throw into an attack
+Once we've done the ball throws, we're going to try throwing the volleyball in the air, letting it bounce and doing a 2 / 3 step approach (just a bit of fun)
+
 Here's a breakdown of an attack approach that applies to anyone (right handed)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w6IevIgUfxY?si=qXJKtgGnzPDoy9hq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
