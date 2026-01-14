@@ -16,8 +16,13 @@ layout: post
 # Focus
 Using sideout and in rally to create an effective attack, looking at deeper into the court as well as away from position 6
 
-https://www.theartofcoachingvolleyball.com/training-more-efficiently/
+<a>https://www.theartofcoachingvolleyball.com/training-more-efficiently/</a>
+
 (this is a subscription model) - talks about leading the attacker as well as the setter
+
+Talks about shot selection, the very first thing talks about the 6 shot (oh my goodness do we do this shot more than anything)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7msl-uo-ogo?si=auOICHgO9M7QJG-l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 # Warmup
 - 3 vs 3 half court, 3m serve, no jump and playing deeper court shots, we'll add in court rules to show that the attack must be deep
