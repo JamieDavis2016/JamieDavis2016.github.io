@@ -56,5 +56,14 @@ Look at how we add in the tempo attack again.
 Lastly, playing to 25, you get a point for each attack, you lose a point if you don't attack or hit into 6
 
 # Activity 4 - 6 vs 6 play
-- If we run a tempo attack and score the point you win 4 points
+- If we run a tempo attack and score the point you win 4 
 
+# Reflection (21/01)
+The cross court play drill slowed the whole session down stopping focus and didn't happen as intended
+
+In future maybe a good idea to takeaway the serve and have a ball in (downball) or something to keep the tempo of the drill
+
+The attack idea should have been reinforced and encouraged on how we play every point and ball out
+
+
+Overall it was a bit of an experiment and didn't happen as intended, sadly it stopped the good tempo and session that was happening before that
