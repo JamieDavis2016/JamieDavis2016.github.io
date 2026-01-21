@@ -6,6 +6,11 @@ layout: post
 ---
 
 # Building our block
+1. This is going to be a few sessions we're going through our blocking (that combines with attacking), starting with service line blocking and in rally blocking
+
+2. The next will be being late versus being wrong
+
+3. What the block means for our defence.
 
 ## Resources
 - 12 + players
@@ -14,6 +19,7 @@ layout: post
 - 1 court
 
 # Focus
+Working on playing with 2 blocks to every ball, from start of rally (service) to in rally
 
 # Warmup
 - Blocking footwork, movements, (running on the spot with a partner and a ball)
