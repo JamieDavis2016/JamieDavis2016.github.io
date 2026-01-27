@@ -29,8 +29,14 @@ Once energy is up, attacking back row attacks only in the half court
 Lastly;
 Using our 2 / 3 step approach from last week, we're going to push the ball with our guiding arm, the guiding arm has to go over the hitting shoulder and just pushed over the net
 
-# Activity 2 - Keeping with the 3 vs 3
-- Queen of the court style, using our step approach and trying to hit deep into the court
+# Activity 2 - Blocking eye work
+Going to go through bunch blocking, where our blocking positions start
+
+- 5 on blocking side, and someone to feed a ball in, 6 reps rotate round, 3 front 2 back
+- 6 on other side and everyone can attack
+
+On blocking side, 2 passers in court, someone to feed ball off court and thrown onto passer
+
 
 # Activity 3 - Playing One ball kill
 - Focus on service side with blocking
