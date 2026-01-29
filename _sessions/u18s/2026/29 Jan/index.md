@@ -29,7 +29,7 @@ Digging to use on Service;
 Playing with the net, going from front to back court, no jump attack to start
 
 # Activity 1 - Servers vs passers
-Starting with servers vs passers, 9 total, 3 passers, 2 passers, 2 servers, 2 servers, 1 setter
+As normal, 3 vs 3, 2 servers  vs 3 passers
 
 moving onto -
 Going to have 3 passers on 1 side with a setter and a middle attacker / outside attacker (5 on 1 side), 2 servers
