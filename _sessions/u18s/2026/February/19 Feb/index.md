@@ -49,3 +49,5 @@ Again after a call with each other, mine / go maybe?
   - Rotating round everyone playing everywhere
 
 Looking to have those same calls to help each other with who to go for the ball
+
+That's all for today :)
