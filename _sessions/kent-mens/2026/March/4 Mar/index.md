@@ -1,5 +1,5 @@
 ---
-title: "Ball control to the wings for an attack"
+title: "Creating an attack from anywhere on court"
 date: "2026-03-04"
 description: Ball control to the wings for an attack
 layout: post
