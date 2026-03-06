@@ -14,6 +14,13 @@ layout: post
 
 - 1 hour 30
 
+Some serve receive techniques;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ONTRt-Tc-Q0?si=iqAHYDVDGlB3S0vJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+And although this is targets at jump serves, it's still useful 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mE9GhceLoEY?si=XEgYpgxfmruJ-wry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Focus 
 Ball control and attack selection (aiming for attack to be there 50% of the time)
 
