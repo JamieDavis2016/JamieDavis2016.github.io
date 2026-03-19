@@ -1,11 +1,11 @@
 ---
-title: "SEVA, SR"
+title: "SEVA, Serve receive and tempo"
 date: "2026-03-21"
-description: Out of system play
+description: Serve receive and tempo
 layout: post
 ---
 
-# Out of system play
+# Serve receive and tempo
 - Players - 11?
 
 - Balls - 6+
@@ -58,20 +58,26 @@ We have a rally and playing 3 vs 3 with a live serve, everytime the ball drops w
 Our tempo system looks something like this;
 
 Position 4 = 5
+
 Position 3 = 3
+
 Position 2 = 1
+
 + the tempo
 As a few examples
 
 High ball position 4; 53
+
 Fast ball middle; 31
+
 Normal ball oppo; 12
+
 Slide; 22
 
 Back court A is a position 1 (10), B is a pipe and C would be position 5
 
 We are playing with a live serve and then a free ball to the team that wins the point
 
-You have to win both points to win 1 point for the rally
-Playing to 10, the point difference is a punishment of dives
+You have to win both points to win 1 point for the rally, OR if you run one of the tempo combination in the rally (not serve receive), you also win the point regardless of the first point
 
+Playing to 10, the point difference is a punishment of dives
