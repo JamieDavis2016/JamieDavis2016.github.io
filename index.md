@@ -9,6 +9,8 @@ This site contains session notes, amongst other things
 
 ### Sessions
 
+Total Sessions: {{ site.sessions | size }}
+
 - **[Kent Womens](/sessions/kent-womens/)**
 - **[Kent Mens](/sessions/kent-mens/)**
 - **[Friday Social Sessions](/sessions/friday-social-sessions/)**
