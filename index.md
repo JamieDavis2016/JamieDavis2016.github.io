@@ -14,6 +14,7 @@ Total Sessions: {{ site.sessions | size }}
 - **[Kent Womens](/sessions/kent-womens/)**
 - **[Kent Mens](/sessions/kent-mens/)**
 - **[Friday Social Sessions](/sessions/friday-social-sessions/)**
+- **[Bromley Sessions](/sessions/bromley/)**
 - **[U18s](/sessions/u18s/)**
 
 ---

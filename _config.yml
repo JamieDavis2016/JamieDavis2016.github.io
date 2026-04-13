@@ -53,6 +53,12 @@ defaults:
       group: "Friday social sessions"
 
   - scope:
+      path: "_sessions/Bromley (Apr 2026 - May 2026)"
+      type: sessions
+    values:
+      group: "Bromley sessions"
+
+  - scope:
       path: "_sessions/u18s"
       type: sessions
     values:
