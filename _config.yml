@@ -63,7 +63,12 @@ defaults:
       type: sessions
     values:
       group: "U18s"
-future: true
+
+  - scope:
+      path: "_sessions/u16s"
+      type: sessions
+    values:
+      group: "U16s"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
