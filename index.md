@@ -16,6 +16,7 @@ Total Sessions: {{ site.sessions | size }}
 - **[Friday Social Sessions](/sessions/friday-social-sessions/)**
 - **[Bromley Sessions](/sessions/bromley/)**
 - **[U18s](/sessions/u18s/)**
+- **[U16s](/sessions/u16s/)**
 
 ---
 
