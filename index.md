@@ -13,10 +13,11 @@ Total Sessions: {{ site.sessions | size }}
 
 - **[Kent Womens](/sessions/kent-womens/)**
 - **[Kent Mens](/sessions/kent-mens/)**
-- **[Friday Social Sessions](/sessions/friday-social-sessions/)**
+- **[Friday Junior Sessions](/sessions/friday-junior-sessions/)**
 - **[Bromley Sessions](/sessions/bromley/)**
 - **[U18s](/sessions/u18s/)**
 - **[U16s](/sessions/u16s/)**
+- **[SEVA](/sessions/SEVA/)**
 
 ---
 
@@ -30,6 +31,21 @@ Total Sessions: {{ site.sessions | size }}
       <a href="{{ session.url }}">{{ session.title }}</a>
       <small>
         ({{ session.group }} — {{ session.date | date: "%d %b %Y" }})
+      </small>
+    </li>
+  {% endfor %}
+</ul>
+
+---
+
+## Latest posts
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small>
+        {{ post.date | date: "%d %b %Y" }}
       </small>
     </li>
   {% endfor %}

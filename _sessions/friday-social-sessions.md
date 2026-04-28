@@ -1,6 +1,6 @@
 ---
-title: Friday Social Sessions
+title: Friday Junior Sessions
 layout: sessions-landing
-group: "Friday social sessions"
-permalink: /sessions/friday-social-sessions/
+group: "Friday junior sessions"
+permalink: /sessions/friday-junior-sessions/
 ---

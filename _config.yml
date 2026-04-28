@@ -39,36 +39,49 @@ defaults:
       type: sessions
     values:
       group: "Kent womens"
+      layout: page
 
   - scope:
       path: "_sessions/kent-mens"
       type: sessions
     values:
       group: "Kent mens"
+      layout: page
 
   - scope:
       path: "_sessions/friday-junior-sessions"
       type: sessions
     values:
       group: "Friday junior sessions"
+      layout: page
 
   - scope:
       path: "_sessions/Bromley (Apr 2026 - May 2026)"
       type: sessions
     values:
       group: "Bromley sessions"
+      layout: page
 
   - scope:
       path: "_sessions/u18s"
       type: sessions
     values:
       group: "U18s"
+      layout: page
 
   - scope:
       path: "_sessions/u16s"
       type: sessions
     values:
       group: "U16s"
+      layout: page
+
+  - scope:
+      path: "_sessions/SEVA"
+      type: sessions
+    values:
+      group: "SEVA"
+      layout: page
 
 # Exclude from processing.
 # The following items will not be processed, by default.
