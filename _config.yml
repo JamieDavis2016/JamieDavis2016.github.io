@@ -47,10 +47,10 @@ defaults:
       group: "Kent mens"
 
   - scope:
-      path: "_sessions/friday-social-sessions"
+      path: "_sessions/friday-junior-sessions"
       type: sessions
     values:
-      group: "Friday social sessions"
+      group: "Friday junior sessions"
 
   - scope:
       path: "_sessions/Bromley (Apr 2026 - May 2026)"
