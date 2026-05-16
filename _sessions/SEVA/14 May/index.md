@@ -64,6 +64,24 @@ TLDR stats;
 | Best Passing Avg  | Isobel  |  2.16 |
 | Most Passing Reps | Matylda |    82 |
 
+A last note;
+
+## Overall Observations
+- Maria was the team’s most complete offensive player:
+  - highest serve pressure,
+  - tied for most kills,
+  - strong efficiency (.319).
+- Sofiia had the biggest defensive impact:
+  - 16 total blocks,
+  - highest hitting efficiency (.536),
+  - elite serving runs.
+- Janice carried a heavy attacking load:
+  - 46 attack attempts,
+  - 19 kills,
+  - solid .239 efficiency despite high volume.
+- Matylda was the primary serve receive anchor:
+  -by far the most passing reps.
+- Isobel handled a major offensive and passing workload simultaneously.
 
 # Team Serve receive Broken down by game;
 
