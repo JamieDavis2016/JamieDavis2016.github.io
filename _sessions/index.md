@@ -4,6 +4,8 @@ layout: default
 permalink: /sessions/
 ---
 
+<p>This section collects the main session groups and their notes in one place.</p>
+
 <ul>
   <li><a href="/sessions/kent-mens/">Kent Mens</a></li>
   <li><a href="/sessions/kent-womens/">Kent Womens</a></li>
