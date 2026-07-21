@@ -80,6 +80,25 @@ body {
 .section a {
   color: #0f766e;
   font-weight: 600;
+  transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+.section a:hover {
+  color: #115e59;
+  text-decoration: underline;
+}
+
+.intro-card a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbs a {
+  transition: color 0.2s ease;
+}
+
+.breadcrumbs a:hover {
+  color: #0d5a52;
+  text-decoration: underline;
 }
 
 .post-content {

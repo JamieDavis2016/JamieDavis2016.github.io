@@ -62,17 +62,36 @@ title: Home
 </div>
 
 <div class="section">
-  <h3>All sessions</h3>
+  <h3>
+    <button id="toggleSessions" class="toggle-btn" style="background: none; border: none; color: #0f766e; font-weight: 600; cursor: pointer; font-size: 1rem; padding: 0; margin-right: 0.5rem;">▶</button>
+    All sessions
+  </h3>
   {% assign all = site.sessions | where_exp: "item", "item.date" | where_exp: "item", "item.url != '/sessions/'" | where_exp: "item", "item.url != '/sessions/bromley/'" | where_exp: "item", "item.url != '/sessions/kent-womens/'" | where_exp: "item", "item.url != '/sessions/kent-mens/'" | where_exp: "item", "item.url != '/sessions/friday-junior-sessions/'" | where_exp: "item", "item.url != '/sessions/u18s/'" | where_exp: "item", "item.url != '/sessions/u16s/'" | where_exp: "item", "item.url != '/sessions/SEVA/'" | sort: "date" | reverse %}
-  <ul>
-    {% for allSession in all %}
-      <li>
-        <a href="{{ allSession.url }}">{{ allSession.title }}</a>
-        <small>{{ allSession.date | date: "%d %b %Y" }} — {{ allSession.group }}</small>
-      </li>
-    {% endfor %}
-  </ul>
+  <div id="sessionsContent" class="sessions-collapsible" style="display: none;">
+    <ul>
+      {% for allSession in all %}
+        <li>
+          <a href="{{ allSession.url }}">{{ allSession.title }}</a>
+          <small>{{ allSession.date | date: "%d %b %Y" }} — {{ allSession.group }}</small>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
+
+<script>
+  document.getElementById('toggleSessions').addEventListener('click', function() {
+    const content = document.getElementById('sessionsContent');
+    const btn = this;
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      btn.textContent = '▼';
+    } else {
+      content.style.display = 'none';
+      btn.textContent = '▶';
+    }
+  });
+</script>
 
 <style>
   .intro-card {
