@@ -3,17 +3,42 @@
 
   {% assign segments = page.url | split:'/' %}
   {% assign path = '' %}
+  {% assign display_segments = '' | split: '|' %}
+  {% assign parent_segment = nil %}
 
   {% for segment in segments %}
     {% if segment != '' %}
-      {% assign path = path | append:'/' | append:segment %}
-      {% if forloop.last %}
-        <span> / {{ page.title }}</span>
-      {% else %}
-        <a href="{{ path | relative_url }}"> / {{ segment | replace:'-',' ' | capitalize }}</a>
+      {% assign normalized = segment | downcase %}
+      {% assign is_date_segment = false %}
+      {% assign is_year = normalized.size == 4 and normalized contains '19' or normalized contains '20' %}
+      {% assign is_month = normalized == 'january' or normalized == 'february' or normalized == 'march' or normalized == 'april' or normalized == 'may' or normalized == 'june' or normalized == 'july' or normalized == 'august' or normalized == 'september' or normalized == 'october' or normalized == 'november' or normalized == 'december' %}
+      {% assign is_day = normalized.size <= 2 and normalized contains '1' or normalized contains '2' or normalized contains '3' or normalized contains '4' or normalized contains '5' or normalized contains '6' or normalized contains '7' or normalized contains '8' or normalized contains '9' or normalized contains '0' %}
+
+      {% if is_year or is_month or is_day %}
+        {% assign is_date_segment = true %}
       {% endif %}
+
+      {% unless is_date_segment %}
+        {% assign path = path | append:'/' | append:segment %}
+        {% assign display_segments = display_segments | push: segment %}
+        {% if forloop.last == false %}
+          {% assign parent_segment = segment %}
+        {% endif %}
+      {% endunless %}
     {% endif %}
   {% endfor %}
+
+  {% if page.collection == 'sessions' and page.group %}
+    <a href="{{ '/sessions/' | append: page.group | downcase | replace: ' ', '-' | relative_url }}"> / {{ page.group }}</a>
+  {% elsif display_segments.size > 1 %}
+    {% assign group_path = '' %}
+    {% for item in display_segments limit: display_segments.size | minus: 1 %}
+      {% assign group_path = group_path | append:'/' | append:item %}
+    {% endfor %}
+    <a href="{{ group_path | relative_url }}"> / {{ display_segments | last | replace:'-',' ' | capitalize }}</a>
+  {% endif %}
+
+  <span> / {{ page.title }}</span>
 </nav>
 
 <style>.breadcrumbs {

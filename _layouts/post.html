@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% if page.collection == 'sessions' %}
+  {% include breadcrumbs.html %}
+{% endif %}
+
+<article class="post">
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
