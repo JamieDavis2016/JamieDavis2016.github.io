@@ -7,6 +7,14 @@ layout: post
 
 # Creating an attackable set
 
+## Videos
+
+Attack approach:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CSIhUzuAVAM?si=Nf8MC9B62P5Mpllr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Throws:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eGwPJuT5LrY?si=E02601GnjxXBghwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Focus
 Building on the attack approach, we are going to look at creating a high pass, through the volley or forearm pass
 
