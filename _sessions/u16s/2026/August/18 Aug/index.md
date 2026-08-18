@@ -1,6 +1,6 @@
 ---
 title: "Creating a solid pass from service"
-date: "2026-08-11"
+date: "2026-08-18"
 description: 
 layout: post
 ---
