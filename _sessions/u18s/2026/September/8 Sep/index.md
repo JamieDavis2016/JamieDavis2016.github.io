@@ -75,4 +75,4 @@ Playing to points of 10
 Cues; What are we seeing as defenders against the service? What can we call?
 
 # Game
-Every ball that's 2x the height of the antenna is a point
+Watching rotational play and tracking our serve and serve receive stats for the game
