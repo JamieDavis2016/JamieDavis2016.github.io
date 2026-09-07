@@ -1,7 +1,7 @@
 ---
 title: "Service into rotational systems in serve receive (the start of 5:1)"
 date: "2026-09-08"
-description: 
+description: rotations
 layout: post
 ---
 
