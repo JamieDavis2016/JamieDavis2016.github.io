@@ -8,6 +8,7 @@ github_username:  jamiedavis2016
 encoding: utf-8
 
 # Build settings
+future: true
 # markdown: redcarpet
 # highlighter: pygments
 # extensions: [tables fenced_code_blocks]
