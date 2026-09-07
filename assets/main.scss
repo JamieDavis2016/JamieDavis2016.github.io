@@ -189,6 +189,15 @@ body {
 }
 
 @media screen and (max-width: 600px) {
+  .post-content iframe,
+  .post-content video {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    height: 220px !important;
+    aspect-ratio: 16 / 9;
+  }
+
   .intro-card {
     padding: 1.2rem;
   }
