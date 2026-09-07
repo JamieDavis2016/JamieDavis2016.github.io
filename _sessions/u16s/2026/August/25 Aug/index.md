@@ -8,7 +8,7 @@ layout: post
 # Building in a setter role from back court
 
 # Focus
-Looking at continuing our serve and serve receive practice; The pass aiming to be 2x the height of the antenna, almost everytime (80%) alongside trying to create an attackable ball
+Looking at continuing our serve and serve receive practice; The pass aiming to be 2x the height of the antenna, almost every time (80%) alongside trying to create an attackable ball
 And having a setter start from back court (looking at running in to play the ball)
 
 # Resources
