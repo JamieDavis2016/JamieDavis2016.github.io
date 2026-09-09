@@ -55,6 +55,8 @@ Setter is starting at positions 1 (so back court behind your receivers)
 - Our goal; creating an attack off of our serve receive
 
 Games to points of 10 
+- 1 for winning the rally
+- 2 points for a sideout attack on serve receive
 
 # Activity 2 - 6 vs 6
 ## Purpose; Creating our sideout structure and seeing what our stats tell us about it (we're after 55% and above!)
@@ -64,7 +66,7 @@ Games to points of 10
 
 You have 10 seconds to figure it out before the ball gets played, if the positions are incorrect will give a point to the opposition
 
-Playing to points of 10
+Playing to points of 11
 
 Cues; What are we looking for as servers? Are we seeing gaps in the serve receive? What about where the setter is?
 
