@@ -23,8 +23,8 @@ Sideout meaning: A side out in volleyball happens when the receiving team wins a
 - Overhand float
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eg0Yx8VI-ek?si=mkpu9jxj2LfVOkLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Generating power
-https://youtube.com/shorts/vjYmnfzrDu4?si=KPBFzkpf4W6gBEeX
+
+[Generating power YouTube short](https://youtube.com/shorts/vjYmnfzrDu4?si=KPBFzkpf4W6gBEeX)
 
 # Warmup
 
