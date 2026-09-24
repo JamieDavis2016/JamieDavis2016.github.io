@@ -21,7 +21,7 @@ layout: post
   - 4 out, 2 middle, 3 opposite
   left, middle, right
 
-  ![Diagram of the drill](image.jpg)
+  ![Diagram of the drill]({{ '/assets/images/sessions/u18s/2025/September/9-Sep-image.jpg' | relative_url }})
 
   Wash drill;
   - Serve

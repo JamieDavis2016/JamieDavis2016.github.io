@@ -24,7 +24,7 @@ Serving against a wall for 2 mins, working on contact
 
 ## Service into SR and an attack (building off of servers vs passers)
 - 8 points then other side, rotate if attack happens
-![Diagram of the drill](image.jpg)
+![Diagram of the drill]({{ '/assets/images/sessions/u18s/2025/November/13-Nov-image.jpg' | relative_url }})
 
 # 5 vs 5
 - Middle back is out

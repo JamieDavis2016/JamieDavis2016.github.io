@@ -24,6 +24,6 @@ Quote:
 - Setter, 2 passes 
 - Call 50, 10, pipe, 51 / middle
 
-<img src="two tempo drill.png" max-width="800px" caption="two_tempo_drill">
+	<img src="{{ '/assets/images/sessions/u18s/2024/March/12-Mar-two-tempo-drill.png' | relative_url }}" max-width="800px" caption="two_tempo_drill">
 
 

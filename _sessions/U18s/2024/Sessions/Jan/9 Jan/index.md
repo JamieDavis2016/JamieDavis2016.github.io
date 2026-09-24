@@ -26,9 +26,9 @@ Cross Court Hits
 
 3m set
 
-<img src="cross court.png" max-width="800px" caption="cross_court_hitting">
+  <img src="{{ '/assets/images/sessions/u18s/2024/Jan/9-Jan-cross-court.png' | relative_url }}" max-width="800px" caption="cross_court_hitting">
 
-![cross_court_hitting](cross court.png)
+![cross_court_hitting]({{ '/assets/images/sessions/u18s/2024/Jan/9-Jan-cross-court.png' | relative_url }})
 
 ### Blocking drill
 - 2 benches alternating hits

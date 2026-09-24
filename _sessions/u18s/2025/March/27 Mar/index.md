@@ -19,7 +19,7 @@ layout: post
   Server swaps with passer, other swaps with target
 (Did have diagrams that I cannot upload)
 
- ![Diagrams of the drills](diagram.jpg)
+![Diagrams of the drills]({{ '/assets/images/sessions/u18s/2025/March/27-Mar-diagram.jpg' | relative_url }})
 
 # Game
 First to 25

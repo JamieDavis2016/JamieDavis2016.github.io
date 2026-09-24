@@ -20,7 +20,7 @@ Communication
   - 3rd free ball over
     - if it gets in the middle or to a player, forfeit
 
-    <img src="court image.png" max-width="800px" caption="court_image">
+    <img src="{{ '/assets/images/sessions/u18s/2024/Jan/23-Jan-court-image.png' | relative_url }}" max-width="800px" caption="court_image">
 
 - Adding in communication
 - Take coach away, 2nd ball to middle, lib / 5 player to take

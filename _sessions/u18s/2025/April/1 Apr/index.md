@@ -25,7 +25,7 @@ Ball control drill 30 reps before moving onto the next one and if the ball drops
 
 # Tactical
   - Looking at where the attackers can hit for the right side (opposite) or the pipe
-![Diagram of the tactical game](tactical.jpg)
+![Diagram of the tactical game]({{ '/assets/images/sessions/u18s/2025/April/1-Apr-tactical.jpg' | relative_url }})
 
 # Game
 First to 25

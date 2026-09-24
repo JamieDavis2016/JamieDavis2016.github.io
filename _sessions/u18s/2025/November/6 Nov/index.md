@@ -20,7 +20,7 @@ Service, picking different spots on court to serve, SR pass to target 50/60% and
 - 3 servers vs 3 passers, looking at technique and service
 - Cannot serve to the same spot
   - Passers rotate every 3 serves (staying in receive) collective to 10 good passes
-![Diagram of the drill](image.jpg)
+![Diagram of the drill]({{ '/assets/images/sessions/u18s/2025/November/6-Nov-image.jpg' | relative_url }})
 
 # Hitting lines 
 - 2 feeders, 2 setters, 2 passers, 3 hitters

@@ -22,7 +22,7 @@ Getting low in posture, shuffling and covering the court, see the defence move i
 This is where players at MB (6), will rotate to cover in for 5 or 1 and 1 or 5 will shift back to cover for 6
 
 The goal is to create more agency on court
-![Shuffle Defence](image.png)
+![Shuffle Defence]({{ '/assets/images/sessions/kent-womens/2025/November/21-Nov.png' | relative_url }})
 
 # Wash Drill
 (6 vs 4)

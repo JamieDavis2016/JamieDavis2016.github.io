@@ -13,12 +13,12 @@ layout: post
 
 # Attacking / Hitting Lines
 This was our hitting lines setup, this was to enable outside and oppo practce as well as combining 1 and 5 out of system passers for attackers to use
-![Diagrams of the drills](attacking.jpg)
+![Diagrams of the drills]({{ '/assets/images/sessions/u18s/2025/March/29-Mar-attacking.jpg' | relative_url }})
 
 # Half court
 - Working on hand flexion and attacking
 
-![Half court hand flexion](hand%20contact.jpg)
+![Half court hand flexion]({{ '/assets/images/sessions/u18s/2025/March/29-Mar-hand-contact.jpg' | relative_url }})
 
 # Game
 First to 25

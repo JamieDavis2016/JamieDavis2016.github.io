@@ -45,7 +45,7 @@ Cues; Early platform, early angle
 2 weeks ago we worked on our setter rotating in a 4:2 system, where they are always going over to the right front of the court.
 Now we're going to introduce the middle and outside going to their points on court
 
-![a1 and a2 session diagrams]({{ '/assets/images/u16s/2026/September/24-Sep.png' | relative_url }})
+![a1 and a2 session diagrams]({{ '/assets/images/sessions/u16s/2026/September/24-Sep.png' | relative_url }})
 
 # Activity 1: - 3 vs 3, half courts
 ### Purpose; Quick games playing with a middle or outside attacker on one side

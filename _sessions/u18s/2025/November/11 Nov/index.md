@@ -18,7 +18,7 @@ Movement on court to help with hesitation and understanding roles
 # Warmup
 This is a variation of 6 up and I like to call it the Lukas drill (credit to Lukas)
 - Setter at 2, pushes to 4, 4 to attack to 1 and pass to the middle for 5 to pass, rotating after your action (all on one side of the court)
-![Diagram of the drill](image.jpg)
+![Diagram of the drill]({{ '/assets/images/sessions/u18s/2025/November/11-Nov-image.jpg' | relative_url }})
 
 (please Youtube video linked for this;)
 

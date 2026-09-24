@@ -16,7 +16,7 @@ Getting used to chasing the ball as a team
 
 # 3* side to side
 - 15 reps each, catch passes counts as one rep
-![side to side](image.png)
+![side to side]({{ '/assets/images/sessions/u18s/2024/July/16-Jul-image.png' | relative_url }})
 
 # Chase the ball
 - Start with noodles in 2's

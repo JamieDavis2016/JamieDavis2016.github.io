@@ -16,7 +16,7 @@ layout: post
 - 4s Queen of the court
   - Free ball in
 
-  ![Diagram of the drill](image.jpg)
+  ![Diagram of the drill]({{ '/assets/images/sessions/u18s/2025/August/26-Aug-image.jpg' | relative_url }})
 
 # Priority Defence
 - Toss to side B

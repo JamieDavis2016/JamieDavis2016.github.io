@@ -34,14 +34,14 @@ When looking at the system for back court
 ## Dig around the world
 - Base defence position, without a block
 
-![Dig around the world.png](Dig around the world.png)
+![Dig around the world.png]({{ '/assets/images/sessions/u18s/2024/August/13-Aug-dig-around-the-world.png' | relative_url }})
 
 ## Dig a dozen
 - 3 hitters on the wing 
 - 2 defenders 
 - 2 targets
 - 2 feeders
-![alt text](image.png)
+![alt text]({{ '/assets/images/sessions/u18s/2024/August/13-Aug-image.png' | relative_url }})
 
 # Gameplay
 First to 25

@@ -56,7 +56,7 @@ Looking at playing a perim defensive system and explaining this
 
 https://www.theartofcoachingvolleyball.com/defensive-systems/
 
-![alt text](image.png)
+![alt text]({{ '/assets/images/sessions/kent-mens/2026/March/11-Mar.png' | relative_url }})
 
 
 # Game

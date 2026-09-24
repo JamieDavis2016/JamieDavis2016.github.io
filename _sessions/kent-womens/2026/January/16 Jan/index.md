@@ -33,7 +33,7 @@ With this video, the only thing to ignore for now is the "switch" outside of the
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LkpmYtogPdw?si=-64oH5hyPL4TcvwB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![rotations](5-1-serve-receive-formations.jpg)
+![rotations]({{ '/assets/images/sessions/kent-womens/2026/January/16-Jan-5-1-Serve-Receive-Formations.jpg' | relative_url }})
 
 # Activity 1 - First Ball kill
 - We're going to play a 6 vs 6 (if 5 we remove just 1 position)

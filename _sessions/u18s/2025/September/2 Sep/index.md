@@ -21,7 +21,7 @@ Had an open conversation with parents setting up the structure for the season an
 # Positions and rotations
   - Go through the rules and serve receive, see diagram for the basics of how we went through the rules on this
 
-  ![Diagram of the drill](image.jpg)
+  ![Diagram of the drill]({{ '/assets/images/sessions/u18s/2025/September/2-Sep-image.jpg' | relative_url }})
 
 On Court we then did 3 serves going through a 5:1 system and how it works with these rules
 

@@ -31,7 +31,7 @@ It's a 1 vs 1 with a setter, start with a dig to setter and then an attack front
 
 Creating our defence into an attacking opportunity (1st or 2nd touch), attacker rotates when they hit in
 
-![ball control to endlines](image.png)
+![ball control to endlines]({{ '/assets/images/sessions/u18s/2026/February/26-Feb-image.png' | relative_url }})
 
 # Activity 2 - 4 vs 4
 - 2 back and 2 front
