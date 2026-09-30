@@ -1,6 +1,6 @@
 ---
 title: "Building our serve receive unit part 3 (of 4)"
-date: "2026-09-29"
+date: "2026-09-30"
 description: 
 layout: post
 ---
