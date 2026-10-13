@@ -31,9 +31,18 @@ layout: post
  - dig, set, standing attack
  - 2 Front court 1 back court
 
-# Warmup 2; 3 vs 3 half courts
-- Serve in, dig, set, jumping attack (only way to score), 50% power
-- 2 Front court 1 back court
+# Warmup 2; 2 vs 2 half courts
+We setup a designated hitter, from serve receive
+
+The other player is a passer
+
+Having a thrown ball in (or challenge with a serve)
+
+The attacker takes the first ball and sets up to attack the 3rd touch
+The 2nd touch is now the setter / passer
+
+Playing a Bo5 with the setter and attacker changing when we rotate
+
 
 - Cues; Getting hip to ball on your last step AND aiming to be on our first left step of a L-R-L when setter touches the ball
 
