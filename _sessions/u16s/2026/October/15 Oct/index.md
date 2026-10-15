@@ -78,6 +78,10 @@ Setter is front court, we have an outside attacker that plays in the serve recei
 
 When the attacker goes to rotate they become the setter, then we rotate off
 
+Looking at how we integrate our left seam work with the serve receive at 3m line and adding a "mine" and "go" call
+
+Cues: adding in "mine" and "go" calls
+
 ### Note;
 Go over our seam work with a couple of diagrams
 
