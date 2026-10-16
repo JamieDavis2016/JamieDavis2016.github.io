@@ -21,6 +21,8 @@ Getting into groups as a passer, setter and an attacker
 
 The attacker is going to stand and hit the ball
 
+The feed is a free ball and every 5 balls we'll rotate the attacker, setter and passer
+
 
 # Warmup 2; Working on some attack approaches 
 ### Purpose: A quick look at our 3 step attack approach with a thrown ball

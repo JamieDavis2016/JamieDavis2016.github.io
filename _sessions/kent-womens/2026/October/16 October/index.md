@@ -1,6 +1,6 @@
 ---
 title: "Attacking opportunities"
-date: "2026-09-16"
+date: "2026-10-16"
 description: 
 layout: post
 ---
