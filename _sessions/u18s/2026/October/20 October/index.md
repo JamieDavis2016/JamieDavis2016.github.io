@@ -55,3 +55,10 @@ The 6 has our normal defensive system
 When we have played to points of 7 we'll introduce the middle and opposite roles
 
 # Gameplay
+
+# Ending drill
+Hitting from positions 4, 3 and 2
+
+With a defender and a free ball coming in
+
+We have to hit the ball hard otherwise it doesn't count, the ball has to go in court and we're after a count of 15
