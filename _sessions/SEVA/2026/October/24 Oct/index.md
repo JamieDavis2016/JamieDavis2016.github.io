@@ -1,11 +1,13 @@
 ---
-title: "test"
-date: "2026-10-21"
+title: "Building a side out"
+date: "2026-10-24"
 description: 
 layout: post
 ---
 
-# SEVA U15s 
+# Building a side out
+
+# Focus; Building our serve receive to enable an attack on siding out 50% of the time
 
 # Resources
 - 18+ players
@@ -14,8 +16,20 @@ layout: post
 - 3 hours
 - 2 courts
 
-# S&C
-TBC;
+# S&C;
+
+Starting with ankle mobility, from rotations to walks 
+(walking on the sides of your feet), to tip toes and to heel walks
+
+2. Worlds greatest stretch
+
+3. Throasic arm swings 
+4. thorasic arm movements
+
+5. In pairs back to back with the ball, getting as low as you can and trying to come back up
+6. Ball tug of war with your partner
+
+7. (?) An arm hold that we then look at pulling to see who can resist (1 leg off the floor)
 
 # Part 1; Building our serve receive to enable an attack on siding out 50% of the time
 
@@ -40,7 +54,15 @@ This is a warmup to getting our passes to target and where we can position on co
 
 Cues; we'll look at where players position and where they start and propose different positions to try (such as being close to the 3m line or further away and coming in)
 
-# Activity 3; 2 vs 2+ half court games
+# Activity 3; Breakdown of a float serve
+Technical demonstration
+
+With a 5 minute have a go
+
+## 3.1 Quick breakdown of a jump float serve
+Technical demonstration
+
+# Activity 4; 2 vs 2+ half court games
 (with current 18, should be 2 vs 2 with 2 extra)
 
 We'll play points of 5 and a ladder type game, if you are at the top of the ladder you get to be the queens of the court, when the games finish we rotate going up and down the ladder (playing a normal game of volleyball)
@@ -48,14 +70,6 @@ We'll play points of 5 and a ladder type game, if you are at the top of the ladd
 2 players are in serve receive
 
 If the serve receive side can create a pass, set, attack (front court) they get an extra point
-
-# Activity 4; Breakdown of a float serve
-Technical demonstration
-
-With a 5 minute have a go
-
-## 4.1 Quick breakdown of a jump float serve
-Technical demonstration
 
 With a 5 minute have a go
 
@@ -111,7 +125,3 @@ The back 3ms of the court will again gain an extra point
 # Scrimmage
 We're now looking at our serve receive into a first attack offense
 And how we create an attack
-
-## videos
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IttY6L-sszA?si=gXg2KdEn4wRCUn4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
