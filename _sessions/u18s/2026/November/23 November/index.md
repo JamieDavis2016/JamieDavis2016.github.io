@@ -1,6 +1,6 @@
 ---
 title: "Looking at tracking ball height as a hitter"
-date: "2026-11-23"
+date: "2026-11-24"
 description: 
 layout: post
 ---
