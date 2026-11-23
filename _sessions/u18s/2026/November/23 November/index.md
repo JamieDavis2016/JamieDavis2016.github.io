@@ -13,6 +13,12 @@ Another note on this focus is that we are looking at the height and what we can 
 
 (My thoughts are that the ball is actually far easier to hit as long as I'm ready)
 
+General notes;
+
+2 weeks our from GP.. What I hope we know now? 5:1 system. Defensive systems, perim defence.. Serve and serve receive
+
+Goal; to create some flow with our defence to set to attack In SR can we hold our pass to target?
+
 # Resources
 - 11+ players
 - 10+ balls
