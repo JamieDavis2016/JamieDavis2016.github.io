@@ -47,7 +47,7 @@ Setters - What do you notice about the height of the set?
 
 # Warmup;
 A variation of 6 up see image; 
-![alt text](image-1.png)
+![6-up rotation diagram]({{ '/assets/images/sessions/u18s/2026/November/24-Nov-image-1.png' | relative_url }})
 We are going to play an out of system game where the attacker hits and then rotates to the back, the player that sets up the out of system attack becomes the attacker and rotating through
 
 On the other side we are going to look at some setting technique and ball heights how do we create consistency in both of these areas?
@@ -72,7 +72,7 @@ Am you loading?
 
 # Activity 2; S and SR
 Building into this attacking height and opportunities (see image)
-![alt text](image.png)
+![Serve-receive attacking setup]({{ '/assets/images/sessions/u18s/2026/November/24-Nov-image.png' | relative_url }})
 We are going to play a 4 game on and rotate in.
 
 Our 4 player and 2 player are front court hitters.
